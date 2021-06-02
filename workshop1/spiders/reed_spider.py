@@ -9,9 +9,12 @@ from itemloaders import ItemLoader
 from ..processor_functions import cleanText
 
 # * XPATHS
+# ? XPATH FROM SEARCH PAGE
 DIV_JOBS_XPATH = '//article'
-ID_XPATH = './/h3/a/@data-id'
-TITLE_XPATH = './/h3/a[@data-id]/text()'
+
+# ? XPATH FROM INDIVIDUAL JOB PAGE
+ID_XPATH = '//p[@class="reference "]/text()'
+TITLE_XPATH = '//header[contains(@class,"job-header")]//h1/text()'
 # LOCATION_XPATH_A = './/div[@class="detail-body"]//li[@class="location"]/span/a/text()'
 # LOCATION_XPATH_SPAN = './/div[@class="detail-body"]//li[@class="location"]/span/span/text()'
 # SALARY_XPATH = './/div[@class="detail-body"]//li[@class="salary"]/text()'
@@ -67,28 +70,31 @@ class ReedUKCrawlSpider(CrawlSpider):
         Rule(
             LinkExtractor(
                 allow=r'/jobs/data-scientist-jobs-in-london\?pageno=\d+$'  # ! \d+ means that any number will be there
-            ), follow=True, callback='parse_job'
+            ), follow=True,
         ),
+        Rule(
+            LinkExtractor(
+                allow=r'/jobs/data-scientist/\d+',
+                restrict_xpaths=[DIV_JOBS_XPATH]
+            ), follow=True, callback='parse_job'
+        )
     )
 
     def parse_job(self, response):
         sel = Selector(response)
-        div_jobs = sel.xpath(DIV_JOBS_XPATH)
+        item = ItemLoader(Job(), sel)
+        item.add_xpath('id', ID_XPATH)
+        item.add_xpath('title', TITLE_XPATH)
 
-        for div in div_jobs:
-            item = ItemLoader(Job(), div)
-            item.add_xpath('id', ID_XPATH)
-            item.add_xpath('title', TITLE_XPATH)
+        # # TODO: Manage the location (kinda difficult)
+        # item.add_value('location', "London")
 
-            # # TODO: Manage the location (kinda difficult)
-            # item.add_value('location', "London")
+        # item.add_xpath('salary', SALARY_XPATH)
+        # item.add_xpath('job_type', JOB_TYPE_XPATH)
+        # item.add_xpath('company', COMPANY_XPATH)
+        # item.add_xpath('date_posted', DATE_POSTED_XPATH)
 
-            # item.add_xpath('salary', SALARY_XPATH)
-            # item.add_xpath('job_type', JOB_TYPE_XPATH)
-            # item.add_xpath('company', COMPANY_XPATH)
-            # item.add_xpath('date_posted', DATE_POSTED_XPATH)
-
-            yield item.load_item()
+        yield item.load_item()
 
 
 # * RUN SCRAPY PROCCESS
