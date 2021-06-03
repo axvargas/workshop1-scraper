@@ -26,7 +26,7 @@ REQUIRED_SKILLS_XPATH = '//ul[@class="list-unstyled skills-list"]/li/text()'
 MODALITY_XPATH = '//div[@class="hidden-xs"]/div[@class="metadata container container-max-width-modifier"]/div[4]/text()'
 
 # TODO:
-# 1. Check data actually clean and no data ommited with takeFirst
+# 1. Why it doesn't crawl ALL the pages?
 
 # * 1 Job abraction gets defined
 class Job(Item):
@@ -68,7 +68,7 @@ class Job(Item):
     )
     required_skills = Field(
         input_processor = MapCompose(cleanText),
-    )  # Leave it as array?
+    )
 
 
 
@@ -98,20 +98,23 @@ class ReedUKCrawlSpider(CrawlSpider):
     allowed_domains = ['www.reed.co.uk']
 
     # * 4 Define the seed urls
-    start_urls = ['https://www.reed.co.uk/jobs/data-scientist-jobs-in-london']
+    # start_urls = ['https://www.reed.co.uk/jobs/data-scientist-jobs-in-london']
+    start_urls = ['https://www.reed.co.uk/jobs/data-scientist-jobs']
 
     # * 5 Define the rules
     rules = (
         # * Horizontal pagination
         Rule(
             LinkExtractor(
-                allow=r'/jobs/data-scientist-jobs-in-london\?pageno=\d+$' 
+                # allow=r'/jobs/data-scientist-jobs-in-london\?pageno=\d+$' 
+                allow=r'/jobs/data-scientist-jobs\?pageno=\d+$' 
             ), follow=True,
         ),
         # * Vertical pagination
         Rule(
             LinkExtractor(
-                allow=r'/jobs/data-scientist/\d+',
+                # allow=r'/jobs/data-scientist/\d+',
+                allow=r'/jobs/.*/\d+\?',
                 restrict_xpaths=[DIV_JOBS_XPATH]
             ), follow=True, callback='parse_job'
         )
