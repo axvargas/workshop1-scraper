@@ -3,10 +3,9 @@ from scrapy.spiders import CrawlSpider, Rule
 from scrapy.selector import Selector
 from scrapy.loader.processors import MapCompose, TakeFirst
 from scrapy.linkextractors import LinkExtractor
-# from scrapy.crawler import CrawlerProcess
 
 from itemloaders import ItemLoader
-from ..processor_functions import cleanText
+from ..processor_functions import cleanText, clean_posting_date
 
 # * XPATHS
 # ? XPATH FROM SEARCH PAGE
@@ -23,33 +22,60 @@ LOCALITY_XPATH        = '//span[@data-qa="localityLbl"]/text()'
 EMPLOYMENT_TYPE_XPATH = '//span[@data-qa="jobTypeLbl"]/text()'
 REQUIRED_SKILLS_XPATH = '//ul[@class="list-unstyled skills-list"]/li/text()'
 
-# No siempre están
+# Not every job has this one.
 MODALITY_XPATH = '//div[@class="hidden-xs"]/div[@class="metadata container container-max-width-modifier"]/div[4]/text()'
 
 # TODO:
-# 4. Assign them to the item
-# 5. Clean the data with intput/output_processor
-# What happen with empty fields?
+# 1. Check data actually clean and no data ommited with takeFirst
 
-# * 1 Define abstraction of your items
-
-
+# * 1 Job abraction gets defined
 class Job(Item):
-    id              = Field()
-    title           = Field()
-    employer        = Field()
-    posting_date    = Field()
-    salary          = Field()
-    region          = Field()
-    locality        = Field()
-    employment_type = Field()
-    modality        = Field()
-    required_skills = Field()  # Leave it as array?
+    id = Field(
+        input_processor = MapCompose(cleanText),
+        output_processor=TakeFirst()
+    )
+    title = Field(
+        input_processor = MapCompose(cleanText),
+        output_processor=TakeFirst()
+    )
+    employer = Field(
+        input_processor = MapCompose(cleanText),
+        output_processor=TakeFirst()
+    )
+    posting_date = Field(
+        input_processor = MapCompose(cleanText, clean_posting_date),
+        output_processor=TakeFirst()
+    )
+    salary = Field(
+        input_processor = MapCompose(cleanText),
+        output_processor=TakeFirst()
+    )
+    region = Field(
+        input_processor = MapCompose(cleanText),
+        output_processor=TakeFirst()
+    )
+    locality = Field(
+        input_processor = MapCompose(cleanText),
+        output_processor=TakeFirst()
+    )
+    employment_type = Field(
+        input_processor = MapCompose(cleanText),
+        output_processor=TakeFirst()
+    )
+    modality = Field(
+        input_processor = MapCompose(cleanText),
+        output_processor=TakeFirst()
+    )
+    required_skills = Field(
+        input_processor = MapCompose(cleanText),
+    )  # Leave it as array?
+
 
 
 # * 2 Define the CrawlSpider
 
 class ReedUKCrawlSpider(CrawlSpider):
+
     #  * 3 Configuration (headers, limitations, etc)
     name = "reed_uk"
 
@@ -59,7 +85,7 @@ class ReedUKCrawlSpider(CrawlSpider):
             'reed_uk.json': {
                 'format': 'json',
                 'encoding': 'utf8',
-                'overwrite': True, #Esto es para que se limpie el output.json?
+                'overwrite': True,
                 'fields': ['id', 'title', 'employer', 'posting_date', 'salary',
                            'region', 'locality', 'employment_type','modality', 
                            'required_skills'],
@@ -72,8 +98,7 @@ class ReedUKCrawlSpider(CrawlSpider):
     allowed_domains = ['www.reed.co.uk']
 
     # * 4 Define the seed urls
-    start_urls = [
-        'https://www.reed.co.uk/jobs/data-scientist-jobs-in-london']
+    start_urls = ['https://www.reed.co.uk/jobs/data-scientist-jobs-in-london']
 
     # * 5 Define the rules
     rules = (
@@ -120,8 +145,6 @@ class ReedUKCrawlSpider(CrawlSpider):
         yield item.load_item()
 
 
-def cleanText(text):
-    return text.replace('\n', '').replace('\r', '').replace('\t', '').strip()
 
 # * RUN SCRAPY PROCCESS
 # process = CrawlerProcess()
