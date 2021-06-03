@@ -13,28 +13,38 @@ from ..processor_functions import cleanText
 DIV_JOBS_XPATH = '//article'
 
 # ? XPATH FROM INDIVIDUAL JOB PAGE
-ID_XPATH = '//p[@class="reference "]/text()'
-TITLE_XPATH = '//header[contains(@class,"job-header")]//h1/text()'
-# LOCATION_XPATH_A = './/div[@class="detail-body"]//li[@class="location"]/span/a/text()'
-# LOCATION_XPATH_SPAN = './/div[@class="detail-body"]//li[@class="location"]/span/span/text()'
-# SALARY_XPATH = './/div[@class="detail-body"]//li[@class="salary"]/text()'
-# JOB_TYPE_XPATH = './/div[@class="detail-body"]//li[@class="job-type"]/span/text()'
-# COMPANY_XPATH = './/div[@class="detail-body"]//li[@class="company"]//a/text()'
-# DATE_POSTED_XPATH = './/div[@class="detail-body"]//li[@class="date-posted"]/span/text()'
+ID_XPATH              = '//p[@class="reference "]/text()'
+TITLE_XPATH           = '//header[contains(@class,"job-header")]//h1/text()'
+EMPLOYER_XPATH        = '//span[@itemprop="name"]/text()'
+POSTING_DATE_XPATH    = '//span[@itemprop="hiringOrganization"]/text()'
+SALARY_XPATH          = '//span[@data-qa="salaryLbl"]/text()'
+REGION_XPATH          = '//span[@data-qa="regionLbl"]/text()'
+LOCALITY_XPATH        = '//span[@data-qa="localityLbl"]/text()'
+EMPLOYMENT_TYPE_XPATH = '//span[@data-qa="jobTypeLbl"]/text()'
+REQUIRED_SKILLS_XPATH = '//ul[@class="list-unstyled skills-list"]/li/text()'
+
+# No siempre están
+MODALITY_XPATH = '//div[@class="hidden-xs"]/div[@class="metadata container container-max-width-modifier"]/div[4]/text()'
+
+# TODO:
+# 4. Assign them to the item
+# 5. Clean the data with intput/output_processor
+# What happen with empty fields?
 
 # * 1 Define abstraction of your items
 
 
 class Job(Item):
-    id = Field()
-    title = Field()
-    # location = Field()
-    # salary = Field()
-    # job_type = Field()
-    # company = Field()
-    # date_posted = Field(
-    #     input_processor=MapCompose(cleanText)
-    # )
+    id              = Field()
+    title           = Field()
+    employer        = Field()
+    posting_date    = Field()
+    salary          = Field()
+    region          = Field()
+    locality        = Field()
+    employment_type = Field()
+    modality        = Field()
+    required_skills = Field()  # Leave it as array?
 
 
 # * 2 Define the CrawlSpider
@@ -49,9 +59,10 @@ class ReedUKCrawlSpider(CrawlSpider):
             'reed_uk.json': {
                 'format': 'json',
                 'encoding': 'utf8',
-                'overwrite': True,
-                'fields': ['id', 'title'],
-                # 'salary', 'job_type', 'company', 'date_posted'
+                'overwrite': True, #Esto es para que se limpie el output.json?
+                'fields': ['id', 'title', 'employer', 'posting_date', 'salary',
+                           'region', 'locality', 'employment_type','modality', 
+                           'required_skills'],
             }
         }
     }
@@ -69,9 +80,10 @@ class ReedUKCrawlSpider(CrawlSpider):
         # * Horizontal pagination
         Rule(
             LinkExtractor(
-                allow=r'/jobs/data-scientist-jobs-in-london\?pageno=\d+$'  # ! \d+ means that any number will be there
+                allow=r'/jobs/data-scientist-jobs-in-london\?pageno=\d+$' 
             ), follow=True,
         ),
+        # * Vertical pagination
         Rule(
             LinkExtractor(
                 allow=r'/jobs/data-scientist/\d+',
@@ -85,6 +97,17 @@ class ReedUKCrawlSpider(CrawlSpider):
         item = ItemLoader(Job(), sel)
         item.add_xpath('id', ID_XPATH)
         item.add_xpath('title', TITLE_XPATH)
+        item.add_xpath('employer', EMPLOYER_XPATH)
+        item.add_xpath('posting_date', POSTING_DATE_XPATH)
+        item.add_xpath('salary', SALARY_XPATH)
+        item.add_xpath('region', REGION_XPATH)
+        item.add_xpath('locality', LOCALITY_XPATH)
+        item.add_xpath('employment_type', EMPLOYMENT_TYPE_XPATH)
+        item.add_xpath('required_skills', REQUIRED_SKILLS_XPATH)
+        item.add_xpath('modality', MODALITY_XPATH)
+
+
+
 
         # # TODO: Manage the location (kinda difficult)
         # item.add_value('location', "London")
@@ -96,6 +119,9 @@ class ReedUKCrawlSpider(CrawlSpider):
 
         yield item.load_item()
 
+
+def cleanText(text):
+    return text.replace('\n', '').replace('\r', '').replace('\t', '').strip()
 
 # * RUN SCRAPY PROCCESS
 # process = CrawlerProcess()

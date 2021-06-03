@@ -77,7 +77,7 @@ class CrawlerTaller(CrawlSpider):
                 allow=r'/catalogue/',
                 restrict_xpaths=[
                     '//ol[@class="row"]/li//div[@class="image_container"]/a']
-            ), follow=True, callback='parse_books'
+            ), follow=True, callback='parse_books' #follow es para que de click
         ),
     ]
 
