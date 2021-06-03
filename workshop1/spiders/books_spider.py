@@ -3,8 +3,7 @@ from scrapy.selector import Selector
 from scrapy.linkextractors.lxmlhtml import LxmlLinkExtractor
 from scrapy.spiders import Rule, CrawlSpider
 from scrapy.crawler import CrawlerProcess
-from scrapy.loader.processors import MapCompose, TakeFirst
-
+from itemloaders.processors import MapCompose, TakeFirst
 from itemloaders import ItemLoader
 
 # * XPATHS

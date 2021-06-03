@@ -1,82 +1,80 @@
 from scrapy.item import Field, Item
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.selector import Selector
-from scrapy.loader.processors import MapCompose, TakeFirst
 from scrapy.linkextractors import LinkExtractor
-
+from itemloaders.processors import MapCompose, TakeFirst
 from itemloaders import ItemLoader
-from ..processor_functions import cleanText, clean_posting_date
+from ..processor_functions import cleanText, clean_posting_date, clean_id
 
 # * XPATHS
 # ? XPATH FROM SEARCH PAGE
 DIV_JOBS_XPATH = '//article'
 
 # ? XPATH FROM INDIVIDUAL JOB PAGE
-ID_XPATH              = '//p[@class="reference "]/text()'
-TITLE_XPATH           = '//header[contains(@class,"job-header")]//h1/text()'
-EMPLOYER_XPATH        = '//span[@itemprop="name"]/text()'
-POSTING_DATE_XPATH    = '//span[@itemprop="hiringOrganization"]/text()'
-SALARY_XPATH          = '//span[@data-qa="salaryLbl"]/text()'
-REGION_XPATH          = '//span[@data-qa="regionLbl"]/text()'
-LOCALITY_XPATH        = '//span[@data-qa="localityLbl"]/text()'
-EMPLOYMENT_TYPE_XPATH = '//span[@data-qa="jobTypeLbl"]/text()'
-REQUIRED_SKILLS_XPATH = '//ul[@class="list-unstyled skills-list"]/li/text()'
+ID_XPATH                = '//p[@class="reference "]/text()'
+TITLE_XPATH             = '//header[contains(@class,"job-header")]//h1/text()'
+ALTERNATIVE_TITLE_XPATH = '//div[contains(@class,"job-header")]//h1/text()'
+EMPLOYER_XPATH          = '//span[@itemprop="name"]/text()'
+POSTING_DATE_XPATH      = '//span[@itemprop="hiringOrganization"]/text()'
+SALARY_XPATH            = '//meta[@itemprop="currency"]/following-sibling::span[1]/text()'
+REGION_XPATH            = '//meta[@itemprop="addressRegion"]/@content'
+LOCALITY_XPATH          = '//span[@itemprop="addressLocality"]/text()'
+EMPLOYMENT_TYPE_XPATH   = '//span[@itemprop="employmentType"]/text()'
+REQUIRED_SKILLS_XPATH   = '//ul[@class="list-unstyled skills-list"]/li/text()'
+IS_REMOTE_XPATH         = '//i[contains(@class,"remote")]'
+BE_IN_FIRST_TEN_XPATH   = '//i[contains(@class,"applicants")]'
 
-# Not every job has this one.
-MODALITY_XPATH = '//div[@class="hidden-xs"]/div[@class="metadata container container-max-width-modifier"]/div[4]/text()'
-
-# TODO:
-# 1. Why it doesn't crawl ALL the pages?
 
 # * 1 Job abraction gets defined
 class Job(Item):
     id = Field(
-        input_processor = MapCompose(cleanText),
+        input_processor=MapCompose(cleanText, clean_id),
         output_processor=TakeFirst()
     )
     title = Field(
-        input_processor = MapCompose(cleanText),
+        input_processor=MapCompose(cleanText),
         output_processor=TakeFirst()
     )
     employer = Field(
-        input_processor = MapCompose(cleanText),
+        input_processor=MapCompose(cleanText),
         output_processor=TakeFirst()
     )
     posting_date = Field(
-        input_processor = MapCompose(cleanText, clean_posting_date),
+        input_processor=MapCompose(cleanText, clean_posting_date),
         output_processor=TakeFirst()
     )
     salary = Field(
-        input_processor = MapCompose(cleanText),
+        input_processor=MapCompose(cleanText),
         output_processor=TakeFirst()
     )
     region = Field(
-        input_processor = MapCompose(cleanText),
+        input_processor=MapCompose(cleanText),
         output_processor=TakeFirst()
     )
     locality = Field(
-        input_processor = MapCompose(cleanText),
+        input_processor=MapCompose(cleanText),
         output_processor=TakeFirst()
     )
     employment_type = Field(
-        input_processor = MapCompose(cleanText),
-        output_processor=TakeFirst()
-    )
-    modality = Field(
-        input_processor = MapCompose(cleanText),
+        input_processor=MapCompose(cleanText),
         output_processor=TakeFirst()
     )
     required_skills = Field(
-        input_processor = MapCompose(cleanText),
+        input_processor=MapCompose(cleanText),
     )
-
+    is_remote = Field(
+        output_processor=TakeFirst()
+    )
+    be_in_first_ten = Field(
+        output_processor=TakeFirst()
+    )
 
 
 # * 2 Define the CrawlSpider
 
 class ReedUKCrawlSpider(CrawlSpider):
 
-    #  * 3 Configuration (headers, limitations, etc)
+    #  * 3 Configuration (headers, files, limitations, etc)
     name = "reed_uk"
 
     custom_settings = {
@@ -87,8 +85,8 @@ class ReedUKCrawlSpider(CrawlSpider):
                 'encoding': 'utf8',
                 'overwrite': True,
                 'fields': ['id', 'title', 'employer', 'posting_date', 'salary',
-                           'region', 'locality', 'employment_type','modality', 
-                           'required_skills'],
+                           'region', 'locality', 'employment_type', 'is_remote',
+                           'be_in_first_ten', 'required_skills'],
             }
         }
     }
@@ -98,7 +96,6 @@ class ReedUKCrawlSpider(CrawlSpider):
     allowed_domains = ['www.reed.co.uk']
 
     # * 4 Define the seed urls
-    # start_urls = ['https://www.reed.co.uk/jobs/data-scientist-jobs-in-london']
     start_urls = ['https://www.reed.co.uk/jobs/data-scientist-jobs']
 
     # * 5 Define the rules
@@ -106,14 +103,12 @@ class ReedUKCrawlSpider(CrawlSpider):
         # * Horizontal pagination
         Rule(
             LinkExtractor(
-                # allow=r'/jobs/data-scientist-jobs-in-london\?pageno=\d+$' 
-                allow=r'/jobs/data-scientist-jobs\?pageno=\d+$' 
+                allow=r'/jobs/data-scientist-jobs\?pageno=\d+$'
             ), follow=True,
         ),
         # * Vertical pagination
         Rule(
             LinkExtractor(
-                # allow=r'/jobs/data-scientist/\d+',
                 allow=r'/jobs/.*/\d+\?',
                 restrict_xpaths=[DIV_JOBS_XPATH]
             ), follow=True, callback='parse_job'
@@ -124,7 +119,6 @@ class ReedUKCrawlSpider(CrawlSpider):
         sel = Selector(response)
         item = ItemLoader(Job(), sel)
         item.add_xpath('id', ID_XPATH)
-        item.add_xpath('title', TITLE_XPATH)
         item.add_xpath('employer', EMPLOYER_XPATH)
         item.add_xpath('posting_date', POSTING_DATE_XPATH)
         item.add_xpath('salary', SALARY_XPATH)
@@ -132,21 +126,25 @@ class ReedUKCrawlSpider(CrawlSpider):
         item.add_xpath('locality', LOCALITY_XPATH)
         item.add_xpath('employment_type', EMPLOYMENT_TYPE_XPATH)
         item.add_xpath('required_skills', REQUIRED_SKILLS_XPATH)
-        item.add_xpath('modality', MODALITY_XPATH)
 
+        title = sel.xpath(TITLE_XPATH).get()
+        if not title:
+            title = sel.xpath(ALTERNATIVE_TITLE_XPATH).get()
+        item.add_value('title', title)
 
+        has_remote_work = sel.xpath(IS_REMOTE_XPATH)
+        if has_remote_work:
+            item.add_value('is_remote', True)
+        else:
+            item.add_value('is_remote', False)
 
-
-        # # TODO: Manage the location (kinda difficult)
-        # item.add_value('location', "London")
-
-        # item.add_xpath('salary', SALARY_XPATH)
-        # item.add_xpath('job_type', JOB_TYPE_XPATH)
-        # item.add_xpath('company', COMPANY_XPATH)
-        # item.add_xpath('date_posted', DATE_POSTED_XPATH)
+        has_to_be_in_first_ten = sel.xpath(BE_IN_FIRST_TEN_XPATH)
+        if has_to_be_in_first_ten:
+            item.add_value('be_in_first_ten', True)
+        else:
+            item.add_value('be_in_first_ten', False)
 
         yield item.load_item()
-
 
 
 # * RUN SCRAPY PROCCESS

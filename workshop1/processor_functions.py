@@ -3,3 +3,6 @@ def cleanText(text):
 
 def clean_posting_date(text):
     return text.replace('by', '').strip()
+
+def clean_id(text):
+    return int(text.strip("Reference: "))
