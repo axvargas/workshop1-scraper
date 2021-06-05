@@ -87,8 +87,8 @@ class ReedUKCrawlSpider(CrawlSpider):
     custom_settings = {
         'USER_AGENT': 'Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18',
         'FEEDS': {
-            'reed_uk.json': {
-                'format': 'json',
+            'reed_uk.csv': {
+                'format': 'csv',
                 'encoding': 'utf8',
                 'overwrite': True,
                 'fields': ['id', 'title', 'employer', 'posting_date', 
