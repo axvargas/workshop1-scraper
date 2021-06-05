@@ -100,7 +100,7 @@ class ReedUKCrawlSpider(CrawlSpider):
         'CONCURRENT_REQUESTS': 32,
         'ROBOTSTXT_OBEY': True,
         # ! To handle time between requirements
-        'DOWNLOAD_DELAY': 2,
+        'DOWNLOAD_DELAY': 1,
         # ! To handle connection errors 
         'DOWNLOADER_MIDDLEWARES':{
             "scrapy.downloadermiddlewares.retry.RetryMiddleware": 500
@@ -129,8 +129,8 @@ class ReedUKCrawlSpider(CrawlSpider):
         # * Vertical pagination
         Rule(
             LinkExtractor(
-                allow=r'/jobs/.*/\d+\?',
-                restrict_xpaths=[DIV_JOBS_XPATH]
+                allow=r'/jobs/.*/\d+',
+                restrict_xpaths=[DIV_JOBS_XPATH],
             ), follow=True, callback='parse_job'
         )
     )
@@ -165,7 +165,4 @@ class ReedUKCrawlSpider(CrawlSpider):
         else:
             item.add_value('be_in_first_ten', False)
         
-        # country = sel.xpath(COUNTRY_XPATH).get()
-        # item.add_value('country', country)
-
         yield item.load_item()
