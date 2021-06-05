@@ -2,6 +2,8 @@ from scrapy.item import Field, Item
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.selector import Selector
 from scrapy.linkextractors import LinkExtractor
+from scrapy.downloadermiddlewares.retry import RetryMiddleware
+
 from itemloaders.processors import MapCompose, TakeFirst
 from itemloaders import ItemLoader
 from ..processor_functions import cleanText, clean_posting_date, clean_id
@@ -17,6 +19,7 @@ ALTERNATIVE_TITLE_XPATH = '//div[contains(@class,"job-header")]//h1/text()'
 EMPLOYER_XPATH          = '//span[@itemprop="name"]/text()'
 POSTING_DATE_XPATH      = '//span[@itemprop="hiringOrganization"]/text()'
 SALARY_XPATH            = '//meta[@itemprop="currency"]/following-sibling::span[1]/text()'
+COUNTRY_XPATH           = '//span[@id="jobCountry"]/@value'
 REGION_XPATH            = '//meta[@itemprop="addressRegion"]/@content'
 LOCALITY_XPATH          = '//span[@itemprop="addressLocality"]/text()'
 EMPLOYMENT_TYPE_XPATH   = '//span[@itemprop="employmentType"]/text()'
@@ -44,6 +47,10 @@ class Job(Item):
         output_processor=TakeFirst()
     )
     salary = Field(
+        input_processor=MapCompose(cleanText),
+        output_processor=TakeFirst()
+    )
+    country = Field(
         input_processor=MapCompose(cleanText),
         output_processor=TakeFirst()
     )
@@ -84,14 +91,27 @@ class ReedUKCrawlSpider(CrawlSpider):
                 'format': 'json',
                 'encoding': 'utf8',
                 'overwrite': True,
-                'fields': ['id', 'title', 'employer', 'posting_date', 'salary',
-                           'region', 'locality', 'employment_type', 'is_remote',
-                           'be_in_first_ten', 'required_skills'],
+                'fields': ['id', 'title', 'employer', 'posting_date', 
+                    'salary','country','region', 'locality', 
+                    'employment_type', 'is_remote', 'be_in_first_ten', 
+                    'required_skills']
             }
-        }
+        },
+        'CONCURRENT_REQUESTS': 32,
+        'ROBOTSTXT_OBEY': True,
+        # ! To handle time between requirements
+        'DOWNLOAD_DELAY': 2,
+        # ! To handle connection errors 
+        'DOWNLOADER_MIDDLEWARES':{
+            "scrapy.downloadermiddlewares.retry.RetryMiddleware": 500
+        },
+        'RETRY_HTTP_CODES': [
+            500, 502, 503, 504, 522, 524, 400, 408, 429, 403],
+        'RETRY_ENABLED': True,
+        'RETRY_TIMES': 10,
     }
 
-    download_delay = 2
+    
 
     allowed_domains = ['www.reed.co.uk']
 
@@ -126,6 +146,7 @@ class ReedUKCrawlSpider(CrawlSpider):
         item.add_xpath('locality', LOCALITY_XPATH)
         item.add_xpath('employment_type', EMPLOYMENT_TYPE_XPATH)
         item.add_xpath('required_skills', REQUIRED_SKILLS_XPATH)
+        item.add_xpath('country', COUNTRY_XPATH)
 
         title = sel.xpath(TITLE_XPATH).get()
         if not title:
@@ -143,11 +164,8 @@ class ReedUKCrawlSpider(CrawlSpider):
             item.add_value('be_in_first_ten', True)
         else:
             item.add_value('be_in_first_ten', False)
+        
+        # country = sel.xpath(COUNTRY_XPATH).get()
+        # item.add_value('country', country)
 
         yield item.load_item()
-
-
-# * RUN SCRAPY PROCCESS
-# process = CrawlerProcess()
-# process.crawl(ReedUKCrawlSpider)
-# process.start()
