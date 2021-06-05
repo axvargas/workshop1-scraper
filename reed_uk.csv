@@ -1,0 +1,728 @@
+id,title,employer,posting_date,salary,country,region,locality,employment_type,is_remote,be_in_first_ten,required_skills
+42671353,Data Scientist,Vitality,Posted 10 May,Salary negotiable,England,South East England,London,"Permanent, full-time",False,False,
+42732807,Data Scientist,Data Idols,Posted 17 May,£600.00 - £700.00 per day,England,South East England,London,"Contract, full-time",True,False,
+42602667,Data Scientist,Method Resourcing,Posted 30 April,"£50,000 - £60,000 per annum",England,Gloucestershire,Cheltenham,"Permanent, full-time",True,False,
+42852621,Data Scientist,Harnham,Posted 26 May,"£50,000 - £65,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,True,
+42782499,Data Scientist,Rise Technical Recruitment Limited,Posted 21 May,"£60,000 - £100,000 per annum",England,Oxfordshire,Oxford,"Permanent, full-time",False,False,
+42660219,Data Scientist,ADLIB,Posted 17 May,£350.00 - £425.00 per day,England,Avon,Bristol,"Contract, full-time",False,False,
+42568857,Data Scientist,Harnham,Posted 27 April,"£50,000 - £68,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,True,
+42818603,Data Scientist,Harnham,Posted 24 May,£450.00 - £550.00 per day,England,South East England,London,"Contract, full-time",False,False,"Analyst,Analytics,Campaigns,Data,Digital,Insight,Marketing,Segmentation,Cluster,Data Science,Segments,Tableau,SAS,Customer,Excel,R,Insights,Clusters,Clustering,Segment,PowerBi,: SQL,Looker,K Means"
+42944113,Data Scientist,Harnham,Posted Yesterday,"£45,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Cluster Analysis,Customer Insight,Marketing Analytics,Python,Segmentation,SQL,Statistics,Marketing Insight,Clustering,Commercial Insight,Customer Behaviour,Data Scientist,Regression,Loyalty Analytics,Insight Analysis,Propensity"
+42569971,Data Scientist,Harnham,Posted 27 April,"£60,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42863640,Data Scientist,Oscar Technology,Posted 27 May,"£50,000 - £65,000 per annum",England,Essex,Saffron Walden,"Permanent, full-time",False,False,"Computer Vision,Machine Learning,Matlab,Python"
+42878375,Data Scientist,Method Resourcing,Posted 28 May,"£45,000 - £52,000 per annum",England,Gloucestershire,Cheltenham,"Permanent, full-time",True,False,
+42502863,Data Scientist,Lynx Recruitment Ltd,Posted 19 April,"£50,000 - £60,000 per annum, OTE",England,South East England,London,"Permanent, full-time",False,False,Machine Learning
+42593988,Data Scientist,Method Resourcing,Posted 29 April,"£40,000 - £450,000 per annum",England,Gloucestershire,Cheltenham,"Permanent, full-time",True,False,
+42589726,Data Scientist,Cpl Life Sciences,Posted 29 April,Salary negotiable,England,Cheshire,Macclesfield,"Contract, full-time",False,False,
+42887691,Data Scientist,Harnham,Posted 1 week ago,"£45,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42576042,Data Scientist,Aspire Data Recruitment,Posted 27 April,"£30,000 - £45,000 per annum",England,West Yorkshire,Leeds,"Permanent, full-time",False,False,"Data Analysis,Python,SQL,Statistical Modeling,Data Science"
+42763782,Data Scientist,Harnham,Posted 19 May,"£45,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42939654,Data Scientist,Harnham,Posted 2 days ago,"£35,000 - £50,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42693759,Data Scientist,Data Idols,Posted 12 May,"£50,000 - £60,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",True,False,
+42752960,Data scientist,Harnham,Posted 19 May,"£50,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",True,False,
+42860427,Data Scientist,Harnham,Posted 27 May,"£55,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42920451,Data Scientist,Harnham,Posted 4 days ago,"£60,000 - £120,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42863914,Data Scientist,Harnham,Posted 27 May,"£80,000 - £85,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42789773,Data Scientist,Lynx Recruitment Ltd,Posted 21 May,£400.00 - £500.00 per day,England,South East England,London,"Contract, full-time",False,False,"Algorithms,Machine Learning,Programming,Python,SQL"
+42922498,Data Scientist,Everton Football Club,Posted 3 days ago,Competitive salary,England,Merseyside,Liverpool,"Permanent, full-time",False,True,"API development,Data Analysis,Python,Reserve,Data Science"
+42762977,Data Scientist,Euro Garages,Posted 19 May,"£38,000 per annum",England,Lancashire,Guide,"Permanent, full-time",False,False,
+42647899,Data Scientist,Harnham,Posted 6 May,"£45,000 - £55,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"sql,python,analytics,modelling,statistical modelling,propensity modelling,data science,power bi"
+42872081,Data Scientist,X4 Group,Posted 28 May,Competitive salary,England,South East England,London,"Contract, full-time",True,True,
+42779546,Data Scientist,Premier IT,Posted 20 May,"£45,000 per annum",England,South East England,London,"Permanent, full-time",True,False,
+42887070,Data Scientist - Marketplace,Harnham,Posted 1 week ago,"£60,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42925396,Senior Data Scientist,Hays Specialist Recruitment Limited,Posted 3 days ago,"£80,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42897869,Data Scientist,Morgan Law,Posted 5 days ago,£600.00 per day,England,South East England,London,"Temporary, full-time",False,True,
+42897010,Data Scientist,Edward Mann Group,Posted 5 days ago,"£35,000 - £40,000 per annum",England,London,Chelsea,"Permanent, full-time",False,True,
+42578750,Data Scientist,Tiger Recruitment,Posted 28 April,"£50,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42880445,Data Scientist,REED Talent Solutions,Posted 28 May,"£26,000 - £32,000 per annum, inc benefits",England,Warwickshire,Nuneaton,"Permanent, full-time",False,True,
+42762787,Data Scientist,The One Group,Posted 19 May,"£60,000 - £80,000 per annum",England,Surrey,Epsom,"Permanent, full-time",False,False,
+42606413,Data Scientist,Sphere Digital Recruitment,Posted 30 April,"£30,000 - £60,000 per annum",England,South East England,London,"Contract, full-time",False,False,
+42910567,Data Scientist,ITECCO,Posted 4 days ago,"£30,000 - £40,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42723142,Data Scientist,Penguin Recruitment Ltd,Posted 14 May,"£65,000 - £70,000 per annum",England,Wiltshire,Swindon,"Permanent, full-time or part-time",False,False,"ArcGIS,SQL,VBA,MS Excel,python,R,statistics,data science,data scientist,statistician"
+42656289,Data Scientist,Harnham,Posted 7 May,"£45,000 - £65,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,True,
+42657424,Data Scientist,Ringstone Recruitment,Posted 7 May,"£50,000 - £60,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,"Cloud Computing,Data,Data Management,Engineering,Machine Learning"
+42569669,Data Scientist,Oscar Technology,Posted 27 April,"£45,000 - £50,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",True,False,
+42890926,Data Scientist,Change Recruitment,Posted 6 days ago,"£50,000 - £60,000 per annum",Scotland,Midlothian,Edinburgh,"Permanent, full-time",False,True,
+42864157,Data Scientist,prosperIS Recruitment Ltd,Posted 27 May,"£45,000 - £55,000 per annum, negotiable",England,West Yorkshire,Leeds,"Permanent, full-time",False,False,"Cloud Computing,Python,Windows Azure,Data Science,Tableau"
+42832880,Data Scientist,Matt Burton,Posted 25 May,"£30,000 - £40,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,False,
+42696192,Data Scientist,Cargiant,Posted 12 May,"£50,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42696192,Data Scientist,Cargiant,Posted 12 May,"£50,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42903291,Data Scientist,Matt Burton,Posted 5 days ago,"£30,000 - £40,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,
+42791551,Data Scientist,Matt Burton,Posted 21 May,"£30,000 - £40,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,False,
+42498549,Data Scientist,Circle Recruitment,Posted 19 April,£500.00 - £545.00 per day,England,Hampshire,Fareham,"Contract, full-time",True,False,"Data,Data Analysis,Government,Java,Machine Learning,ML,Python,SC Clearance,Security Clearance,Data Science,Stakeholder Management,NLP,R,SC Cleared,R Programming,Data Scientist,Tensorflow,Pytorch,Stanford"
+42924683,Data Scientist,Harnham,Posted 3 days ago,"£40,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Python,SQL,Data Science"
+42907373,Data Scientist,X4 Group,Posted 5 days ago,Competitive salary,England,South East England,London,"Contract, full-time",True,True,
+42841725,Data Scientist,X4 Group,Posted 26 May,£500.00 - £600.00 per day,England,South East England,London,"Contract, full-time",False,False,
+42872137,Data Scientist,X4 Group,Posted 28 May,Competitive salary,England,South East England,London,"Contract, full-time",True,True,
+42683265,Data Scientist,Edward Mann Group,Posted 11 May,"£35,000 - £40,000 per annum",England,London,Chelsea,"Permanent, full-time",False,False,
+42755291,Data Scientist,Edward Mann Group,Posted 19 May,"£40,000 - £45,000 per annum",England,London,Chelsea,"Permanent, full-time",False,True,
+42718105,Data Scientist,Robert Walters,Posted 14 May,Salary negotiable,England,Yorkshire and Humberside,West Yorkshire,"Permanent, full-time",False,False,Data / SAS / SQL / Python
+41230953,Lead Data Scientist,Blue Pelican,Posted 28 May,"£70,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"Analytics,Machine Learning,Python,Data Science"
+42613959,Lead Data Scientist,GerrardWhite,Posted 4 May,"£90,000 - £95,000 per annum, inc benefits",England,Surrey,Reigate,"Permanent, full-time",False,True,"Machine Learning,Neural Networks,Python,Data Science,GLM,NLP,Azure,AWS,Image Recognition,Deep Learning,Decision Tree,Random Forest,GBM,CNN,GAN,Neural Nets"
+42765465,Senior Data Scientist,Specsavers,Posted 19 May,Salary not specified,England,Hampshire,Whiteley,"Permanent, full-time",False,True,
+42801628,Principal Data Scientist,Harnham,Posted 22 May,"£81,000 - £150,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42498871,Principal Data Scientist,Optamor,Posted 19 April,Competitive salary,England,Gloucestershire,Cheltenham,"Permanent, full-time",False,True,
+42925992,Data Scientist,Anglo American,Posted 3 days ago,Salary negotiable,England,South East England,London,"Contract, full-time",False,True,
+42665444,Senior Data Scientist,Harnham,Posted 9 May,"£68,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42703717,Principal Data Scientist,Rise Technical Recruitment Limited,Posted 13 May,"€100,000 - €150,000 per annum",Germany,,Germany,"Permanent, full-time",False,True,
+42739334,Senior Data Scientist,Harnham,Posted 17 May,"£60,000 - £95,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42876491,Senior Data Scientist,Data Idols,Posted 28 May,"£50,000 - £55,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",True,False,"Python,SQL,AWS"
+42779544,Senior Data Scientist,Harnham,Posted 20 May,"£90,000 - £130,000 per annum",England,South East England,London,"Permanent, full-time",False,True,Machine Learning
+42779562,Principal Data Scientist,Harnham,Posted 20 May,"£110,000 - £130,000 per annum",England,South East England,London,"Permanent, full-time",False,True,Machine Learning
+42908016,Lead Data Scientist,Jefferson Frank,Posted 5 days ago,"£65,000 - £75,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Machine Learning,ML,Predictive Analytics,Python,Data Science,SAS,Cloud,R,AWS,Data Scientist,Advanced Analytics,Shiny"
+42751131,Research Data Scientist,Harnham,Posted 18 May,"£40,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42944605,Data Scientist,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42618085,Data Scientist,MHR,Posted 4 May,Competitive salary,England,Nottinghamshire,Ruddington,"Permanent, full-time",False,True,"Data Analysis,Research,Software Development,Data Science"
+42590969,Data Scientist,HR360 Ltd,Posted 29 April,"£40,000 - £60,000 per annum",England,London,Camden,"Permanent, full-time",False,False,
+42904181,Data Scientist,loveholidays,Posted 5 days ago,Salary negotiable,England,South East England,London,"Permanent, full-time",False,False,
+42857131,Data Scientist,The Medical Protection Society Limited,Posted 27 May,Salary negotiable,England,West Yorkshire,Holbeck,"Permanent, part-time",False,True,
+42629169,Data Scientist,EMR,Posted 5 May,"£54,001 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42706278,Data Scientist,X4 Group,Posted 13 May,"£45,000 - £65,000 per annum",England,Cheshire,Alderley Edge,"Permanent, full-time",False,True,
+42819632,Data Scientist,SR2,Posted 24 May,"£45,000 - £60,000 per annum",England,Avon,Bristol,"Permanent, full-time",False,True,
+42925239,Senior Data Scientist,Hays Specialist Recruitment Limited,Posted 3 days ago,"£60,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42658941,Junior Data Scientist,ITECCO,Posted 7 May,"£20,000 - £30,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,False,"Energy,Python,Data Modelling,Data Scientist"
+42925030,Junior Data Scientist,Hays Specialist Recruitment Limited,Posted 3 days ago,"£50,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42603949,Senior Data Scientist,Addition Solutions,Posted 30 April,"£85,000 - £95,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42924618,Junior Data Scientist,Hays Specialist Recruitment Limited,Posted 3 days ago,"£40,000 - £50,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42833905,Data Scientist All Levels,Harnham,Posted 25 May,"£60,000 - £120,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42748240,Lead Data Scientist,X4 Group,Posted 18 May,Competitive salary,England,South East England,London,"Contract, full-time",True,True,
+42937752,Senior Data Scientist,Premier IT,Posted 2 days ago,"£60,000 - £100,000 per annum",England,London,Hoxton,"Permanent, full-time",False,True,
+42875644,Data Scientist Product,Harnham,Posted 28 May,"£60,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42739151,Senior Data Scientist,Harnham,Posted 17 May,€80.00 - €90.00 per hour,Netherlands,,Netherlands,"Contract, full-time",False,True,
+42818689,Churn Data Scientist,Harnham,Posted 24 May,€70.00 - €80.00 per hour,Netherlands,,Netherlands,"Contract, full-time",False,True,
+42943753,Principal Data Scientist,Harnham,Posted Yesterday,"£80,000 - £97,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42685959,Fraud Data Scientist,Harnham,Posted 11 May,€70.00 - €80.00 per hour,Netherlands,,Netherlands,"Contract, full-time",False,True,
+42472749,Data Scientist Investment,Harnham,Posted 20 May,"£60,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42733744,Senior Data Scientist,Heat Recruitment,Posted 17 May,"£60,000 - £80,000 per annum",England,Avon,Bristol,"Permanent, full-time",True,True,
+42643712,Senior Data Scientist,Rise Technical Recruitment Limited,Posted 6 May,"€60,000 - €100,000 per annum",Germany,,Germany,"Permanent, full-time",False,True,*Data Scientist* AND Statistics AND Actuarial
+42716486,Clinical Data Scientist,Toner Graham,Posted 14 May,"£80,000 per annum",England,London,Camden,"Permanent, full-time",True,False,"Python,EMIS,HL7,Medical Doctor,FHIR"
+42811834,Lead Data Scientist,Innovative Technology,Posted 24 May,Competitive salary,England,Lancashire,Oldham,"Permanent, full-time",False,True,
+42881637,Product Data scientist,Harnham,Posted 28 May,"£50,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",True,True,
+42713825,Applied Data Scientist,Harnham,Posted 13 May,"€40,000 - €50,000 per annum",Czech Republic,,Czech Republic,"Permanent, full-time",False,True,
+42627513,Data Verification Scientist,Hyper Recruitment Solutions Ltd,Posted 5 May,Competitive salary,England,South East England,Oxfordshire,"Permanent, full-time",False,True,
+42643678,Senior Data Scientist,Rise Technical Recruitment Limited,Posted 6 May,"€70,000 - €100,000 per annum",Germany,,Germany,"Permanent, full-time",False,True,*Data Scientist* AND Statistics AND Actuarial
+42828024,Cloud Data Scientist,Blue Pelican,Posted 25 May,"£35,000 - £55,000 per annum",England,London,Southwark,"Permanent, full-time",False,True,
+42938449,Data Scientist - Cambridge,Shift F5 Limited,Posted 2 days ago,"£50,000 - £80,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,"GCP,JavaScript,Machine Learning,Node,Python,SQL,DBA,AWS,AI,Cloud Platforms,Network Science"
+42924650,Clinical Data Scientist,Hays Specialist Recruitment Limited,Posted 3 days ago,"£40,000 - £50,000 per annum",England,South East England,London,"Permanent, full-time",True,True,
+42751491,Data Scientist - Retail,Harnham,Posted 18 May,"£60,000 - £75,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42925864,Graduate Data Scientist,Hastings Direct,Posted 3 days ago,Competitive salary,England,South East England,London,"Permanent, full-time",True,False,
+42564008,Data Scientist/ Senior Data Scientist,Harnham,Posted 26 April,"£50,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42789844,Senior Data Scientist,Cavendish Maine Recruitment,Posted 21 May,"£40,000 - £52,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,"Machine Learning,Mathematical Analysis,Python,Data Science,Graduate Level"
+42789853,Senior Data Scientist,Cavendish Maine Recruitment,Posted 21 May,"£40,000 - £52,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Machine Learning,Mathematical Analysis,Python,Data Science,Graduate Level"
+42683270,Marketing Data Scientist,Hasson Associates Recruitment Ltd,Posted 11 May,"£40,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42871721,Senior Data Scientist,X4 Group,Posted 28 May,Competitive salary,England,South East England,London,"Contract, full-time",False,True,
+41379227,Senior Data Scientist,Blue Pelican,Posted 28 May,"£50,000 - £65,000 per annum",England,London,Southwark,"Permanent, full-time",False,False,
+42925757,Senior Data Scientist,Hays Specialist Recruitment Limited,Posted 3 days ago,"£60,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42657462,Cloud Data Scientist,Ringstone Recruitment,Posted 7 May,"£50,000 - £60,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,"Cloud Computing,Data,Data Management,Engineering,Machine Learning"
+42717467,Digital Data Scientist,Blue Pelican,Posted 14 May,"£40,000 - £55,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42647898,Senior Data Scientist,Harnham,Posted 6 May,"£60,000 - £85,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42569735,Principal Data Scientist,Harnham,Posted 27 April,"£90,000 - £95,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42812233,Senior Data Scientist,Method Resourcing,Posted 24 May,"£55,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42924228,Junior Data Scientist,Hays Specialist Recruitment Limited,Posted 3 days ago,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,
+42612970,Senior Data Scientist,Harnham,Posted 3 May,"£40,000 - £55,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42930595,Senior Data Scientist,Hays Specialist Recruitment Limited,Posted 3 days ago,"£60,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42935087,Junior Data Scientist,Hays Specialist Recruitment Limited,Posted 2 days ago,"£40,000 - £50,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42923916,Junior Data Scientist,Hays Specialist Recruitment Limited,Posted 3 days ago,"£40,000 - £50,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42924594,Senior Data Scientist,Hays Specialist Recruitment Limited,Posted 3 days ago,"£80,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42689115,Senior Data Scientist,Cathcart Associates,Posted 12 May,"£55,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",True,False,
+42599847,Data Scientist,X4 Group,Posted 30 April,Competitive salary,England,South East England,London,"Contract, full-time",False,False,
+42772399,Data Scientist,Morson Talent,Posted 20 May,Salary negotiable,England,North West England,Cheshire,"Permanent, full-time",False,False,
+42723291,Data Scientist,Liberty Resourcing,Posted 14 May,"£60,000 per annum",England,London,Camden,"Permanent, full-time",False,False,
+42745481,Data Scientist,ITECCO,Posted 18 May,"£55,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",True,False,"Python,SQL"
+42782626,Data Scientist,Rise Technical Recruitment Limited,Posted 21 May,"£60,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42927274,Data Scientist,Ageas Insurance Limited,Posted 3 days ago,"£26,000 - £35,000 per annum",England,Dorset,Bournemouth,"Permanent, full-time",False,True,
+42722259,Data Scientist,ITECCO,Posted 14 May,"£40,000 - £60,000 per annum",England,West Midlands,Coventry,"Permanent, full-time",False,False,"Data,Financial Services,Python,SQL,Data Science"
+42810715,Data Scientist,X4 Group,Posted 24 May,Competitive salary,England,South East England,London,"Contract, full-time",False,True,
+42583762,Data Scientist,Jefferson Frank,Posted 28 April,"£45,000 - £55,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42710595,Data Scientist,La Fosse Associates,Posted 13 May,£450.00 - £500.00 per day,England,South East England,London,"Contract, full-time",False,False,
+42622073,Data Scientist,Method Resourcing,Posted 4 May,£400.00 - £425.00 per day,England,England,South West England,"Contract, full-time",False,False,
+42592148,Data Scientist,Profectus Recruitment,Posted 29 April,"£40,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"Python,Data Science,Pandas,Scikit-Learn,Jupyter"
+42650358,Data Scientist,Compass Associates Ltd,Posted 7 May,"£53,000 per annum",England,Berkshire,Slough,"Permanent, full-time",False,True,
+42778723,Data Scientist,Harnham,Posted 20 May,"£50,000 - £60,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,True,"Machine Learning,ML,Python,Data Science,Scala,NLP,Deep Learning,TensorFlow"
+42572094,Data Scientist,Harnham,Posted 27 April,"£50,000 - £68,000 per annum",England,West Yorkshire,Leeds,"Permanent, full-time",False,True,
+42752955,Data Scientist,BPS World,Posted 19 May,"£40,000 - £45,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42944114,Data Scientist,Harnham,Posted Yesterday,"£45,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Cluster Analysis,Customer Insight,Marketing Analytics,Python,Segmentation,SQL,Statistics,Marketing Insight,Clustering,Commercial Insight,Customer Behaviour,Data Scientist,Regression,Loyalty Analytics,Insight Analysis,Propensity"
+42789484,Data Scientist,Method Resourcing,Posted 21 May,"£40,000 - £50,000 per annum",England,Gloucestershire,Cheltenham,"Permanent, full-time",True,True,
+42659956,Data Scientist,Harnham,Posted 7 May,£500.00 - £600.00 per day,England,South East England,London,"Contract, full-time",False,False,"Analyst,Analytics,Data,Digital,Modelling,Python,Segmentation,SQL,Data Science,Google Analytics,Segments,Attribution,SAS,Customer,Agency,R,Data Scientist,Regression,Models,Segment,Lapse,Lapse Model,Behavioural modelling"
+42773775,Data Scientist,Premier IT,Posted 20 May,"£70,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42938542,Data Scientist,Shift F5 Limited,Posted 2 days ago,"£60,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42880111,Data Scientist,Hastings Direct,Posted 28 May,Salary negotiable,England,South East England,London,"Permanent, full-time",True,False,"Python,R"
+42837800,Senior Data Scientist,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42836536,Senior Data Scientist,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42837410,Lead Data Scientist,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42657896,Credit Risk Data Scientist,Harnham,Posted 7 May,"£55,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42659362,Data Scientist - Python,Datalink Recruitment Ltd,Posted 7 May,"£60,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",True,False,
+42657488,Data Scientist - Remote,Ringstone Recruitment,Posted 7 May,"£50,000 - £60,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,False,"Cloud Computing,Data,Data Management,Engineering,Machine Learning"
+42818978,Senior Data Scientist,Hastings Direct,Posted 24 May,Salary negotiable,England,South East England,London,"Permanent, full-time",True,True,"Python,SQL,Data Science,R"
+42660142,Senior Product Data Scientist,Harnham,Posted 7 May,"£55,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Python,SQL,machine learning,A/B testing,product analytics"
+42924622,Senior Product Data Scientist,Harnham,Posted 3 days ago,"£55,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Python,SQL,machine learning,A/B testing,product analytics"
+42325809,Data Scientist & Developer,MFK Recruitment,Posted 28 April,"£40,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42922826,Data Scientist - Python,PeopleGenius,Posted 3 days ago,"£45,000 - £60,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,"Modelling,Python,SQL"
+42659610,Data Scientist / Analyst,ITECCO,Posted 7 May,"£25,000 - £40,000 per annum",England,South East England,London,"Permanent, full-time",False,False,Data Scientist
+42568859,Senior Research Data Scientist,Harnham,Posted 27 April,"£50,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42574297,Senior Product Data Scientist,Harnham,Posted 27 April,"£55,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Python,SQL,machine learning,A/B testing,product analytics"
+42505091,Senior/ Principal Data Scientist,Harnham,Posted 19 April,"£80,000 - £130,000 per annum",England,South East England,London,"Permanent, full-time",False,True,Machine Learning
+42638254,Data Scientist  - Manchester,Circle Recruitment,Posted 5 May,"£45,000 - £65,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,
+42944438,Data Scientist - Pricing,Harnham,Posted Yesterday,"£60,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42834212,Senior Data Scientist,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42812738,Data Scientist / Data Analyst,Cameo Consultancy,Posted 24 May,"£40,000 - £42,000 per annum",England,Oxfordshire,Banbury,"Permanent, full-time",False,False,"SQL,PYTHON,data visualisation,Data scientist"
+42924840,Analyst/Junior Data Scientist,Harnham,Posted 3 days ago,"£40,000 - £45,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Health,Wellness,App,Start-Up,Analyst/Junior Data Scientist"
+42925058,Analyst/Junior Data Scientist,Harnham,Posted 3 days ago,"£40,000 - £45,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Health,Wellness,App,Start-Up,Analyst/Junior Data Scientist"
+42782117,Data Engineer / Data Scientist,24:7 RECRUITMENT SOLUTIONS,Posted 21 May,"£45,000 - £65,000 per annum, inc benefits",England,London,Camden,"Permanent, full-time",False,False,"Data Analysis,Python,scala,aws,data engineering"
+42677408,Senior Data Scientist/ Principal Data Scientist,Harnham,Posted 10 May,"£80,000 - £130,000 per annum",England,South East England,London,"Permanent, full-time",False,True,Machine Learning
+42944857,Lead Data Scientist,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42945605,Data Scientist,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42896531,"Data Scientist Healthcare, Visualisation",Understanding Recruitment,Posted 5 days ago,"£50,000 - £55,000 per annum",England,Oxfordshire,Oxford,"Permanent, full-time",False,True,
+42942374,Lead Data Scientist - Personlisation,Harnham,Posted 2 days ago,"£75,000 - £95,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42751019,Lead Data Scientist - NLP,Harnham,Posted 18 May,"£75,000 - £95,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42720219,Data Scientist - Machine Learning,Hays Specialist Recruitment Limited,Posted 14 May,"£40,000 - £45,000 per annum",England,Avon,Bristol,"Permanent, full-time",False,False,"python,machine learning,data scientist"
+42724871,Data Scientist - Fully Remote,Shift F5 Limited,Posted 14 May,"€50,000 - €70,000 per annum",Spain,,Spain,"Permanent, full-time",False,True,"Business Intelligence,Machine Learning,Python,NLP,Data Scientist,Time Series"
+42682184,Senior Data Scientist - Reading,BCT Resourcing,Posted 11 May,"£40,000 - £60,000 per annum",England,Berkshire,Reading,"Permanent, full-time",False,True,
+42781040,Data Scientist - Market Research,Aspire,Posted 20 May,"£45,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",True,False,
+42818099,Market Research - Data Scientist,Aspire,Posted 24 May,"£45,000 - £60,000 per annum, negotiable, pro-rata, inc benefits, OTE",England,South East England,London,"Permanent, full-time",True,True,"Python,SPSS,analyst,data analysis,R,research analyst,data modelling,pricing manager,yield analyst,research analytics"
+42863302,Interim Data Scientist - Tax,Handle Recruitment,Posted 27 May,£350.00 - £400.00 per day,England,South East England,London,"Temporary, full-time",False,True,"Business Analyst,Data Analyst,Data Engineer,Data Scientist"
+42579894,Data Scientist 12 month FTC,ADLIB,Posted 28 April,"£35,000 - £45,000 per annum",England,Gloucestershire,Cheltenham,"Permanent, full-time",False,True,
+42696782,Senior Data Scientist - Marketing,Data Idols,Posted 12 May,"£60,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42875430,Data Scientist / AI Engineer,Deerfoot IT Resources Ltd,Posted 28 May,"£80,000 - £120,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"Data Science,AI,Machine learning"
+42709528,Data Scientist Consultant,Hays Specialist Recruitment Limited,Posted 13 May,"£45,000 - £60,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",True,True,
+42751032,Senior Data Scientist,ADLIB,Posted 18 May,"£60,000 - £70,000 per annum",England,Avon,Bristol,"Permanent, full-time",True,False,
+42728420,Senior Data Scientist - Marketing,Harnham,Posted 16 May,"£60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42910565,Data Scientist Machine Learning,ITECCO,Posted 4 days ago,"£60,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",False,True,Machine Learning
+42887066,Lead Data Scientist - NLP,Harnham,Posted 1 week ago,"£90,000 - £120,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42860221,Lead Data Scientist - NLP,Harnham,Posted 27 May,"£90,000 - £95,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Python,Data Science,NLP,Data Scientist,Deep Learning."
+42580733,Power Systems Data Scientist,Talentspa,Posted 28 April,Competitive salary,England,Avon,Bristol,"Permanent, full-time",False,True,
+42852618,Lead NLP Data Scientist,Harnham,Posted 26 May,"£75,000 - £95,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42596855,Lead Data Scientist - NLP,Harnham,Posted 29 April,"£85,000 - £95,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42819986,Data Scientist Deep Learning,Harnham,Posted 24 May,"£55,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42923311,Data Scientist Market Research,Aspire,Posted 3 days ago,"£45,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",True,True,
+42805254,"Data Scientist Medical, Remote",Understanding Recruitment,Posted 23 May,"£45,000 - £55,000 per annum",England,Oxfordshire,Oxford,"Permanent, full-time",False,False,
+42668668,Senior Data Scientist Freelance,Harnham,Posted 10 May,€95.00 - €105.00 per hour,Netherlands,,Netherlands,"Contract, full-time",False,True,
+42611408,Lead Data Scientist - NLP,Harnham,Posted 2 May,"£75,000 - £95,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42890794,Principal Data Scientist - Private Equity,Harnham,Posted 6 days ago,"£80,000 - £110,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42726960,Senior Data Scientist - Unicorn Tech,Harnham,Posted 15 May,"£70,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42944828,Senior Data Scientist Engineering focus,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42579924,Senior Data Scientist 12 Month FTC,ADLIB,Posted 28 April,"£45,000 - £56,000 per annum",England,Gloucestershire,Cheltenham,"Permanent, full-time",False,True,
+42683777,Data Scientist Python - Hedge Fund,Client Server Ltd.,Posted 11 May,"£75,000 - £85,000 per annum",England,South East England,London,"Permanent, full-time",True,False,"data,python,scientist,numpy,scipy,pandas"
+42750292,"Data Scientist - Reporting, Surveys and Insights",We Do Data,Posted 18 May,"£40,000 - £45,000 per annum",England,Gloucestershire,Cheltenham,"Permanent, full-time",True,True,
+42655761,Data Scientist  Higher Level Education  45K,Method Resourcing,Posted 7 May,"£40,000 - £45,000 per annum, negotiable, inc benefits",England,Gloucestershire,Cheltenham,"Contract, full-time",True,True,"education,python,r,data science,data scientist,power BI"
+42935195,Data Scientist / Artificial Intelligence Engineer,Adecco,Posted 2 days ago,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,
+42730209,"Data Scientist Deep Learning, Python, SQL",Understanding Recruitment,Posted 17 May,"£80,000 - £90,000 per annum",England,London,Camden,"Permanent, full-time",False,False,
+42638291,Senior Computer Vision Data Scientist Freelance,Harnham,Posted 5 May,€100 - €110 per annum,Netherlands,,Netherlands,"Contract, full-time",False,True,
+42848853,Data Scientist - Multiple Positions Available,SR2,Posted 26 May,"£55,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42712145,Data Scientist - AWS - Manchester,Circle Recruitment,Posted 13 May,"£45,000 - £65,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,
+42779516,Data Scientist - AWS - Manchester,Circle Recruitment,Posted 20 May,"£45,000 - £65,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,
+42542719,Data Scientist - Productising & Innovation,Blue Pelican,Posted 28 May,Salary not specified,England,South East England,London,"Permanent, full-time",False,True,
+42911841,Data Scientist - NLP,Hays Specialist Recruitment Limited,Posted 4 days ago,"£45,000 - £75,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"IVD,NLP,science,chemistry,health,learning,medical,data,biology,R&D,development,research,machine,diagnostic,language,processing,modelling,mining,clinical,statistics,start-up,in-vitro,instrument,natural,device,text,deep"
+42733907,Data Scientist / Analyst,Search Party Digital Ltd,Posted 17 May,"£30,000 - £35,000 per annum",England,Avon,Bristol,"Permanent, full-time",True,False,"Python,Google Analytics,Tableau"
+42768860,Data Scientist -  Interviews next week,NonStop Consulting Ltd,Posted 20 May,Competitive salary,England,South East England,London,"Contract, full-time",False,False,"Machine Learning,Python,SQL,Data Scientist,Qlik Sense"
+42677316,Senior Data Scientist Credit/ Lending,Harnham,Posted 10 May,"£45,000 - £78,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"python,machine learning,Scorecards,decision science,scorecard modelling,credit decision"
+42665602,Data Scientist - JID 1931,Spinwell Global Limited,Posted 9 May,Salary negotiable,Saudi Arabia,Saudi Arabia,Riyadh,"Permanent, full-time",False,True,
+42945500,Quantitative Researcher / Data Scientist,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42646161,Data Scientist - Audience Insights,Blue Pelican,Posted 6 May,"£45,000 - £50,000 per annum",England,London,Camden,"Permanent, full-time",False,False,
+42657477,Cloud Data Scientist - Remote,Ringstone Recruitment,Posted 7 May,"£50,000 - £60,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,"Cloud Computing,Data,Data Management,Engineering,Machine Learning"
+42930706,Senior Data Scientist - Insurance,High Finance (UK) Limited T/A HFG,Posted 3 days ago,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,
+42930706,Senior Data Scientist - Insurance,High Finance (UK) Limited T/A HFG,Posted 3 days ago,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,
+42913058,Data Scientist - Fixed Term,E.ON,Posted 4 days ago,Salary negotiable,England,South East England,London,"Temporary, full-time",False,True,
+42645664,Senior Data Architect / Data Scientist  - 100 Remote across UK,Stanton House,Posted 6 May,"£80,000 - £110,000 per annum",England,South East England,London,"Permanent, full-time",True,True,
+42834145,Sports Modeler - Data Scientist,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42734582,Senior Data Scientist  E-Commerce  Python 55-65k,Method Resourcing,Posted 17 May,"£55,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"python,spark,data science,data scientist"
+42883442,Senior Data Surveillance Scientist,NHS Business Services Authority,Posted 29 May,"£38,202 - £44,240 per annum",England,Essex,Harlow,"Contract, full-time",False,True,
+42944919,Senior Data Scientist Applied Science Focus,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42769995,Pricing Data Scientist German or Italian or French Speaker,Arthur,Posted 20 May,"£75,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42877912,Data Scientist  E-Commerce  Spark  Python  £55-60k,Method Resourcing,Posted 28 May,"£55,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"retail,python,ecommerce,spark,data science,data scientist"
+42850150,Data Scientist  E-Commerce  Luxury Fashion  £55-60k,Method Resourcing,Posted 26 May,"£55,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"python,ecommerce,data science,data scientist"
+42853294,Data Scientist - Computer Vision/ Deep Learning,Harnham,Posted 26 May,"£40,000 - £55,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42601170,Software Engineer / Data Scientist,Nuvola Resourcing Ltd,Posted 30 April,"£45,000 - £65,000 per annum",Wales,South Glamorgan,Cardiff,"Permanent, full-time",False,True,Java Python Data Science
+42736751,"Data Scientist Python, R, Shiny, ML",Jefferson Frank,Posted 17 May,"£50,000 - £60,000 per annum",Scotland,Midlothian,Edinburgh,"Permanent, full-time",True,False,"Analytics,Machine Learning,ML,Python,SQL,Data Science,SAS,Data Analyst,R,Shiny,Data SCIENTIST"
+42736902,"Data Scientist Python, R, Shiny, ML",Jefferson Frank,Posted 17 May,"£50,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",True,False,"Analytics,Machine Learning,ML,Python,SQL,Data Science,SAS,Data Analyst,R,Shiny,Data SCIENTIST"
+42637516,"Junior Data Scientist  Fintech  London  £50,000",Sphere Digital Recruitment,Posted 5 May,"£40,000 - £50,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"sql,data,python,analytics,churn,statistics,scientist,segmentation,regression,propensity"
+42913741,Data Scientist Python Computer Vision PhD,Client Server Ltd.,Posted 4 days ago,"£65,000 - £80,000 per annum",England,London,Paddington,"Permanent, full-time",True,True,"python,computer-vision,data-scientist"
+42854585,"Data Scientist - Azure, Python, Pandas/Scipy",Hays Specialist Recruitment Limited,Posted 26 May,Salary negotiable,England,South East England,London,"Contract, full-time",False,True,
+42803115,Data Scientist - remote working available,Communicate Recruitment Solutions LTD,Posted 23 May,"£35,000 - £65,000 per annum",England,Cambridgeshire,Peterborough,"Permanent, full-time",True,False,"Programming,Python,Data Science"
+42941875,Data Scientist Contract - Outside IR35,Harnham,Posted 2 days ago,£350.00 - £400.00 per day,England,London,Covent Garden,"Contract, full-time",False,True,"Python,SQL,R,AWS"
+42941595,Data Scientist Geospatial - Outside IR35,Harnham,Posted 2 days ago,£450.00 - £500.00 per day,England,London,Covent Garden,"Contract, full-time",False,True,"GIS,Machine,Python,SQL,Learning,Random Forests"
+42721054,Data Scientist - Part-Time Night Shift,SRG Lunar,Posted 14 May,£17.28 per hour,England,Warwickshire,Leamington Spa,"Contract, full-time",False,True,
+42945046,Senior Data Scientist - Insurance,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42903686,Data Scientist & Machine Learning Research Engineer,Amazing Prospects Ltd,Posted 5 days ago,"£65,000 - £85,000 per annum, inc benefits",England,Surrey,Epsom,"Permanent, full-time",False,True,
+42569462,Data Science Consultant,Harnham,Posted 27 April,"£75,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42941514,Data Science Manager,Harnham,Posted 2 days ago,"£80,000 - £120,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42495362,"Machine Learning Engineer AI Ops, Python, Cloud",Understanding Recruitment,Posted 19 April,"£90,000 - £100,000 per annum",England,London,Camden,"Permanent, full-time",False,False,
+42554777,"Lead Machine Learning Engineer ML Ops, Bayesian",Understanding Recruitment,Posted 26 April,"£90,000 - £100,000 per annum",England,London,Camden,"Permanent, full-time",False,True,
+42612256,"Machine Learning Engineer AI Ops, Python, AWS/GCP",Understanding Recruitment,Posted 3 May,"£90,000 - £100,000 per annum",England,London,Camden,"Permanent, full-time",False,False,
+42443067,"Senior Machine Learning Engineer Statistics, Cloud",Understanding Recruitment,Posted 17 May,"£90,000 - £100,000 per annum",England,London,Camden,"Permanent, full-time",False,True,
+42896430,"Senior Machine Learning Engineer Gaussian, Cloud",Understanding Recruitment,Posted 5 days ago,"£90,000 - £100,000 per annum",England,London,Camden,"Permanent, full-time",False,True,
+42576020,Data Ops Engineer,Harnham,Posted 27 April,"£70,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,Data Ops Engineer
+42742791,Machine Learning Scientist Remote,TEC PARTNERS LIMITED,Posted 18 May,"£45,000 - £60,000 per annum, negotiable, inc benefits",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,False,"Python,Machine learning,Pandas,NumPy,Matplotlib,Tensorflow,Jupyter,PyTorch"
+42683723,Lead Data Science Consultant / Trainer,Harnham,Posted 11 May,"£70,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42667244,"Lead Machine Learning Engineer Ops, Bayesian Stats",Understanding Recruitment,Posted 10 May,"£90,000 - £100,000 per annum",England,London,Camden,"Permanent, full-time",False,False,
+42791225,Data Science Manager,Sphere Digital Recruitment,Posted 21 May,"£80,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"customer,science,manager,data,python,analysis,modelling,churn,scientist,segmentation,statistical,predictive"
+42813818,Senior Research Scientist - New Target Bioinformatics,Park Street People,Posted 24 May,Salary negotiable,England,Oxfordshire,Abingdon,"Contract, full-time",False,True,
+42574366,Deep Learning Scientist,Harnham,Posted 27 April,"£80,000 - £85,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Forecasting,Machine Learning,Data Science,Data Scientist,Deep Learning,Time Series."
+42505097,Machine Learning Engineer/ Senior Machine Learning Engineer,Harnham,Posted 4 days ago,"£80,000 - £130,000 per annum",England,South East England,London,"Permanent, full-time",False,False,Machine Learning
+42837696,Data Scientist- Systematic Quant Fund,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42836885,"Senior Data Scientist, Optimisation Lead - Athena Applied Intelligence - London",eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42823634,"Lead Developer, Python, Data Scientist, AI, CNN, Computer Vision",Corriculo Ltd,Posted 25 May,"£45,000 - £55,000 per annum",England,Middlesex,Twickenham,"Permanent, full-time",True,True,
+42823633,"Lead Developer, Python, Data Scientist, AI, CNN, Computer Vision",Corriculo Ltd,Posted 25 May,"£45,000 - £55,000 per annum",England,Middlesex,Twickenham,"Permanent, full-time",True,True,
+42916133,"Lead Developer, Python, Data Scientist, AI, CNN, Computer Vision",Corriculo Ltd,Posted 4 days ago,"£65,000 - £75,000 per annum",England,Middlesex,Twickenham,"Permanent, full-time",True,True,
+42647106,"Data Scientist, Modelling Analyst, PV Modelling, 6 month FTC",Corriculo Ltd,Posted 6 May,"£30,000 - £40,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42836807,Senior Data Scientist - GTI Applied AI - London,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42838319,Senior Data Scientist - Financial Services - Trading Platform,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42944583,Junior Data Scientist - Financial Services - Trading Platform,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42660538,Data Scientist - UK Government Contract,NonStop Consulting Ltd,Posted 7 May,Salary negotiable,England,Hampshire,Portsmouth,"Contract, full-time",False,True,python; data science; docker; social media; modelling
+42741837,Real World Evidence Scientist,Cpl Life Sciences,Posted 18 May,Salary negotiable,England,Cambridgeshire,Cambridge,"Contract, full-time",False,True,
+42832547,Mid-level Data Engineer,Rise Technical Recruitment Limited,Posted 25 May,"£45,000 - £55,000 per annum",Wales,South Glamorgan,Cardiff,"Permanent, full-time",True,True,"Data,Engineering,Manufacturing,Technology,Big Data,IT,Bristol,Data Engineer,Cardiff,South West,Tech,Wales,Bath,South Wales,Data Scientist,Data Architect,Swansea,Newport"
+42826898,Associate Principal Scientist - DMPK / ADME,Hyper Recruitment Solutions Ltd,Posted 25 May,Salary negotiable,England,South East England,Hertfordshire,"Permanent, full-time",False,True,
+42577324,Ux Designer,Capita,Posted 28 April,£400.00 - £450.00 per day,England,Hampshire,Portsmouth,"Contract, full-time",False,True,
+42902131,Associate Scientist,CK GROUP,Posted 5 days ago,Salary negotiable,England,Hertfordshire,Stevenage,"Contract, full-time",False,True,
+42864412,Senior Scientist,CK GROUP,Posted 27 May,Salary negotiable,England,Hertfordshire,Stevenage,"Contract, full-time",False,True,
+42637675,Biological Safety Scientists - Medical Devices - Remote USA,Bosch Global Associates Ltd,Posted 5 May,"USD$90,000 - USD$135,000 per annum, negotiable",USA,USA,Ohio,"Permanent, full-time",False,True,
+42637713,Biological Safety Scientists - Medical Devices - Remote USA,Bosch Global Associates Ltd,Posted 5 May,"USD$90,000 - USD$135,000 per annum, negotiable",USA,USA,California,"Permanent, full-time",False,True,
+42907323,Computer Vision Specialist,X4 Group,Posted 5 days ago,Competitive salary,England,South East England,London,"Contract, full-time",True,True,
+42813225,Research Scientist,Kenton Black,Posted 24 May,Salary negotiable,England,Northamptonshire,Rushden,"Permanent, full-time",False,False,"Drug Discovery,Research,ADME,Bioanalysis,CRO"
+42695173,Graduate Scientist,CK GROUP,Posted 12 May,Salary negotiable,England,Tyne And Wear,Gateshead,"Permanent, full-time",False,True,
+42687122,Lead Scientist - Process Analytics BLI/SPR,Hyper Recruitment Solutions Ltd,Posted 11 May,Salary negotiable,England,South East England,Berkshire,"Permanent, full-time",False,True,"Analytical,SPR,Method Development,Octet,BLI"
+42687166,Lead Scientist - Process Analytics HPLC/UPLC,Hyper Recruitment Solutions Ltd,Posted 11 May,Salary negotiable,England,East Anglia,Cambridgeshire,"Permanent, full-time",False,True,"Analytical,Electrophoresis,HPLC,Method Development,UPLC"
+42747895,Staff Scientist - Design,Novacyt,Posted 18 May,Competitive salary,England,Hampshire,Chandlers Ford,"Permanent, full-time",False,True,
+42737397,Real World Evidence RWE Scientist,CK GROUP,Posted 17 May,Salary negotiable,England,Cambridgeshire,Cambridge,"Contract, full-time",False,True,
+42739586,Lead Protein Purification Scientist,"Yoh, A Day & Zimmermann Company",Posted 17 May,"£40,000 - £45,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,"Biologics,Column Chromatography,Project Management,AKTA,Protein Purification"
+42922949,Senior Real World Evidence Scientist,CK GROUP,Posted 3 days ago,Salary negotiable,England,Cambridgeshire,Cambridge,"Contract, full-time",False,True,
+42833649,Senior Biomedical Scientist,INSIGNIA RECRUIT,Posted 25 May,Salary negotiable,England,Buckinghamshire,Milton Keynes,"Temporary, full-time",False,True,
+42717768,Head of Data Science,Vitality,Posted 14 May,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,
+42752974,Data Engineer,BPS World,Posted 19 May,"£40,000 - £45,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42832424,Junior Data Engineer,Rise Technical Recruitment Limited,Posted 25 May,"£35,000 - £45,000 per annum",Wales,South Glamorgan,Cardiff,"Permanent, full-time",True,False,"Data,Engineering,Manufacturing,Technology,Big Data,IT,Bristol,Data Engineer,Cardiff,South West,Tech,Wales,Bath,South Wales,Data Scientist,Data Architect,Swansea,Newport"
+42911073,Clinical Bioinformatician - Growing Diagnostics company,Hays Specialist Recruitment Limited,Posted 4 days ago,"£40,000 - £55,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,True,"PCR,Bayesian,NGS,science,learning,data,programmer,machine,programming,clinical,diagnostics,statistics,scientist,genetics,bioinformatics,statistical,pipeline,genomics,discovery,biomarker,bioinformatician,sequence,15189"
+42638281,Manufacturing Analytics Lead,Premier IT,Posted 5 May,"£80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42779584,Machine Learning Engineer,Harnham,Posted 20 May,"£60,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42741864,Senior Real World Evidence Scientist,Cpl Life Sciences,Posted 18 May,Salary negotiable,England,Cambridgeshire,Cambridge,"Contract, full-time",False,True,
+42739610,Lead Scientist (Protein Engineering),"Yoh, A Day & Zimmermann Company",Posted 17 May,"£40,000 - £45,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,"Molecular Biology,Project Management,Protein Engineering,Mammalian Cell Culture,Protein Purification"
+42754344,"Microbiologist, Scientist, IVD, Molecular Diagnostics, Medical",Corriculo Ltd,Posted 19 May,"£35,000 - £45,000 per annum",England,Oxfordshire,Oxford,"Permanent, full-time",False,True,
+42710385,Research Scientist,Pertemps SSDC,Posted 6 days ago,Salary negotiable,England,Leicestershire,Waltham On The Wolds,"Temporary, full-time",True,True,
+42686983,Cell Culture Scientist,Hyper Recruitment Solutions Ltd,Posted 11 May,"£25,000 - £35,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42680999,Formulation Development Scientist,CK GROUP,Posted 11 May,Salary negotiable,England,Surrey,Weybridge,"Contract, full-time",False,False,
+42896530,"Senior Software Developer Python, AI",Understanding Recruitment,Posted 5 days ago,"£70,000 - £80,000 per annum",England,London,Camden,"Permanent, full-time",False,True,
+42828512,Genomic Screening Scientist,REED Scientific,Posted 25 May,Salary negotiable,England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+42907481,Scientist,"Yoh, A Day & Zimmermann Company",Posted 5 days ago,"£20,000 - £25,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,"Laboratory,Molecular Biology,Mammalian Cell Culture,Tissue Culture"
+42277724,Senior Scientist,Bond Recruitment,Posted 23 April,"£45,000 - £55,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"Biochemistry,Molecular Biology,Molecular Cloning,Molecular Diagnostics,NGS"
+42637697,Biological Safety Scientists - Medical Devices - Remote USA,Bosch Global Associates Ltd,Posted 5 May,"USD$90,000 - USD$135,000 per annum, negotiable",USA,USA,Indiana,"Permanent, full-time",False,True,
+42637998,Biological Safety Scientists - Medical Devices - Remote USA,Bosch Global Associates Ltd,Posted 5 May,"USD$90,000 - USD$135,000 per annum, negotiable",USA,USA,Texas,"Permanent, full-time",False,True,"Biological,Medical Devices,Medical Technology,Risk Assessments,Product Safety"
+42563545,Data Science Lead,PeopleGenius,Posted 26 April,"£45,000 - £60,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,"Coding,Modelling,Python,SQL,Data Science"
+42705780,"Molecular Scientist - Industrialisation SPR, PCR, Flow",Hyper Recruitment Solutions Ltd,Posted 13 May,"£38,000 - £43,000 per annum, negotiable",England,South East England,London,"Permanent, full-time",False,False,"ELISA,Molecular,PCR,SPR,Flow Cytometry"
+42761915,Mass Spectrometry Scientist - Proteomics,Hyper Recruitment Solutions Ltd,Posted 19 May,"£30,000 - £35,000 per annum, negotiable",England,North West England,Cheshire,"Permanent, full-time",False,True,
+42710556,Senior Scientist - Stem Cell Biology,Hyper Recruitment Solutions Ltd,Posted 13 May,"£35,000 - £45,000 per annum, negotiable",Scotland,Renfrewshire,Central,"Permanent, full-time",False,True,
+42901931,Graduate Machine Learning Software Engineer,IT Graduate Recruitment,Posted 5 days ago,"£40,000 - £60,000 per annum, negotiable, inc benefits, OTE",England,South East England,London,"Permanent, full-time",False,False,"C++,Computer Vision,Python,Data Science,Text Mining,Big Data,Data Scientist,Deep Learning,Machine Learning Software Engineer"
+42837719,Graduate Quant Data Scientist/ UK/  Base  Bonus,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42717353,Scientist - Chemistry,CK GROUP,Posted 14 May,Salary negotiable,England,Hertfordshire,Stevenage,"Permanent, full-time",False,True,
+42921955,Scientist,ARM Defence,Posted 3 days ago,Salary negotiable,England,Worcestershire,Malvern,"Permanent, full-time",False,True,
+42878434,Research Scientist - Python - Machine Learning,The SLR Group,Posted 28 May,£120.00 - £150.00 per day,England,Leicestershire,Melton Mowbray,"Contract, full-time",False,True,python
+42939562,Analytical Chemist,Kenton Black,Posted 2 days ago,"£20,000 - £35,000 per annum, negotiable",England,Middlesex,Teddington,"Permanent, full-time",False,True,"Analytical Chemistry,Forensic Analysis,Gas Chromatography,LCMS"
+42637737,Biological Safety Scientists - Medical Devices - Remote USA,Bosch Global Associates Ltd,Posted 5 May,"USD$90,000 - USD$135,000 per annum, negotiable",USA,USA,Pennsylvania,"Permanent, full-time",False,True,"Biological,Medical Devices,Medical Technology,Risk Assessments,Product Safety"
+42831489,Electrophysiologist,REED Scientific,Posted 25 May,Salary negotiable,England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+42284664,Downstream Process Development Scientist,Harris Lord Recruitment,Posted 30 April,Competitive salary,England,Staffordshire,Stoke-on-Trent,"Permanent, full-time",False,True,"Biological,GMP,Innovation,Product Development,Purification"
+42675646,Senior Packaging Scientist,CK GROUP,Posted 10 May,Salary negotiable,England,Cheshire,Macclesfield,"Contract, full-time",False,True,
+42831492,Electrophysiologist,REED Scientific,Posted 25 May,Salary negotiable,England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+42722921,Analytical Scientist - Molecular Biologist,Next Phase Recruitment,Posted 14 May,Salary negotiable,England,South East England,London,"Permanent, full-time",False,False,
+42929479,Senior Scientist,CK GROUP,Posted 3 days ago,Salary negotiable,England,Hampshire,Southampton,"Contract, full-time",False,True,
+41416286,Senior LC-MS/MS Analyst,VRS Recruitment,Posted 24 May,"£25,000 - £38,000 per annum",England,South East England,Essex,"Permanent, full-time",False,False,
+40808455,Senior In Vivo Scientist,Harris Lord Recruitment,Posted 30 April,"£30,000 - £38,000 per annum, negotiable",England,Kent,Canterbury,"Permanent, full-time",False,False,"In Vivo,Research,Experimental Design,Mouse Models,pain"
+42728592,Assay Development Leader,TEC PARTNERS LIMITED,Posted 16 May,"£40,000 - £45,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+41972028,Data Analyst Python & Power BI - Move to Management,hireful.,Posted 5 days ago,"£50,000 - £55,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,False,
+42911799,Data Engineer - GCP - Python - ETL - BI Development - SQL,Reflex Computer Recruitment,Posted 4 days ago,"£60,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42652836,Senior GMP Upstream Scientist,Harris Lord Recruitment,Posted 7 May,Competitive salary,England,Staffordshire,Stoke-on-Trent,"Permanent, full-time",False,True,"Biologics,Biotechnology,Cell Culture,Fermentation,Upstream"
+42707613,Scientist/Senior Scientist Bio-Assays,CK GROUP,Posted 13 May,Salary negotiable,England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+42184093,Senior Toxicology Scientist,taylorollinson Ltd,Posted 26 May,Competitive salary,England,Cheshire,Macclesfield,"Permanent, full-time",False,False,Toxicology
+42615557,PBPK Modelling Scientist,Zest Business Group,Posted 4 May,Salary negotiable,England,East Midlands,Nottinghamshire,"Permanent, full-time",False,True,"PBPK Modelling,WinNonlin Phoenix,GastroPlus,SimCYP"
+42805255,"Software Engineer JavaScript, AI",Understanding Recruitment,Posted 23 May,"£60,000 - £70,000 per annum",England,London,Camden,"Permanent, full-time",False,True,
+42754660,Data Engineer,Alchemy Global Talent Solutions,Posted 19 May,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,"Data Science,Emerging Technologies,data engineer,data fabric,optimising data"
+42906668,Process Scientist,Manpower,Posted 5 days ago,"£25,536 - £30,822 per annum",England,Merseyside,Bebington,"Temporary, full-time",False,True,
+42881830,QC Scientist,CK GROUP,Posted 28 May,Salary negotiable,England,South East England,Surrey,"Contract, full-time",False,True,
+42864159,Development / Senior Development Scientists,CK GROUP,Posted 27 May,"£35,000 - £45,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42341925,Research Scientist - Biochemistry,Park Street People,Posted 6 May,Salary negotiable,England,Oxfordshire,Abingdon,"Permanent, full-time",False,False,
+42820149,Data Science Consultant,Harnham,Posted 24 May,"£50,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42907426,Scientist (Protein),"Yoh, A Day & Zimmermann Company",Posted 5 days ago,"£20,000 - £30,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,"Molecular Biology,Protein Engineering,Protein Expression,Mammalian Cell Culture,Protein Purification"
+42570272,Machine Learning Engineer,Harnham,Posted 27 April,"£60,000 - £75,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,False,
+42943967,Lead Machine Learning Engineer,Harnham,Posted Yesterday,"£60,000 - £75,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+42831124,Research Scientist,Gold Group Ltd,Posted 25 May,Salary negotiable,England,England,South West England,"Permanent, full-time",False,True,"Analysis,C++,Engineering,Maths,Mentoring,Modelling,Physics,Python,Research,Design,Development,Application,Algorithm,Ionospheric"
+42750563,"Data Engineer Data Science, ML",Jefferson Frank,Posted 18 May,"£50,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",True,False,"Analytics,BI,ETL,Machine Learning,ML,Python,Spark,Scala,Big Data,Data Analyst,Data Engineer,R,AWS,Data Scientist,Databricks"
+42831491,Electrophysiologist,REED Scientific,Posted 25 May,Salary negotiable,England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+42847962,Research Scientist - Electrochemistry,Cranleigh Scientific,Posted 26 May,Competitive salary,England,Surrey,Guildford,"Permanent, full-time",False,True,"chemistry,PhD,electrochemistry,batteries,hydrogen"
+42332051,Senior Scientist (Polymers- Sustainability),Hudson Shribman,Posted 29 April,Salary negotiable,England,England,South East England,"Permanent, full-time",False,True,"Plastics,Polymers,Sustainability,Polymer Science,recyclable"
+42708382,Graduate Analytical Scientist,Jackson Hogg,Posted 13 May,Competitive salary,England,Northumberland,Alnwick,"Permanent, full-time",False,False,"Analytical,Analytical Chemistry,Chemistry,HPLC,Graduate Level"
+42586379,Freelance Instructors,Tina Lacey Recruitment,Posted 28 April,Competitive salary,England,Hertfordshire,St. Albans,"Contract, full-time",False,True,"Dynamics,Microsoft Certified Professional,Amazon Web Services,Azure,Microsoft Azure Administrator Associate"
+42805256,"Senior Software Developer Python, Django",Understanding Recruitment,Posted 23 May,"£80,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42770553,Senior Technical Specialist,Consult,Posted 20 May,Competitive salary,England,Merseyside,Speke,"Permanent, full-time",False,True,
+42832340,Research Scientist (Fermentation),Harris Lord Recruitment,Posted 25 May,"£25,000 - £30,000 per annum, negotiable",England,Berkshire,Newbury,"Permanent, full-time",False,True,"Biologics,Fermentation,GMP,Technology Transfer,Upstream"
+41990818,GC-MS Application Specialist,VRS Recruitment,Posted 4 May,Competitive salary,England,Cambridgeshire,Peterborough,"Permanent, full-time",False,False,
+42260921,GC-MS Marketing Application Scientist,VRS Recruitment,Posted 27 April,Competitive salary,England,Cambridgeshire,Peterborough,"Permanent, full-time",False,True,
+42862753,Senior Bioinformatics Scientist,Compass Associates Ltd,Posted 27 May,"£58,000 - £63,000 per annum",England,East Anglia,Cambridgeshire,"Permanent, full-time",False,True,
+42907801,Senior Data Analyst - 50k - Cheltenham,Langley James Limited,Posted 5 days ago,"£40,000 - £50,000 per annum",England,Gloucestershire,Cheltenham,"Permanent, full-time",False,True,"Data,SQL,Tableau,T-SQL,Data Analyst,R,D3.js,Data Scientist,Data Architect,Power BI"
+42720480,Associate Scientist,Next Phase Recruitment,Posted 14 May,Competitive salary,England,Oxfordshire,Oxford,"Permanent, full-time",False,False,
+42865634,Materials Scientist,Flat Fee Recruiter,Posted 27 May,Competitive salary,England,Lancashire,Newhey,"Permanent, full-time",False,False,
+42791208,Data Consultant Apprenticeship,Multiverse,Posted 21 May,"£21,000 per annum, inc benefits",England,South East England,London,"Permanent, full-time",True,False,"Apprenticeship,Communication Skills,Data,Data Analysis,Future Leaders"
+42927288,Analytical Technical Leader,Hyper Recruitment Solutions Ltd,Posted 3 days ago,Competitive salary,England,East Midlands,Leicestershire,"Permanent, full-time",False,True,
+42728303,Scientist,British Gypsum,Posted 16 May,Salary negotiable,England,East Midlands,Nottinghamshire,"Permanent, full-time",False,True,
+42643427,Laboratory Data Analyst - Molecular Biology,Jobs in Science,Posted 6 May,£12.45 per hour,England,Devon,Exeter,"Temporary, full-time",False,True,"Bioinformatics,Data Analysis,LIMS,Molecular Biology,PCR"
+42462819,Development Scientist,SDL Solutions Limited,Posted 25 May,Salary negotiable,England,Cambridgeshire,Cambridge,"Contract, full-time",False,True,"Bioprocessing,Bioreactor,Laboratory,Scientific Applications,Mammalian"
+42763563,Senior DNA Sequencing Scientist,taylorollinson Ltd,Posted 19 May,Competitive salary,England,East Anglia,Cambridgeshire,"Permanent, full-time",False,True,"Genomics,LIMS,Molecular Biology,DNA sequencing,NGS"
+42884818,Graduate - IT - Python - Open Source - Research,Spring Technology,Posted 29 May,£100.00 - £150.00 per day,England,East Midlands,Leicestershire,"Contract, full-time",False,True,"Graduate / IT / Research / Python / Coding / Programming / Machine Learning / Data Science / Open Source / Pytorch / Tensorflow / Research Scientist /,£100-150 per day.  Based East Midlands Leicestershire / Nottinghamshire.  One of"
+42763505,Principal Research Scientist,Advantage Resourcing,Posted 19 May,"£60,000 - £65,000 per annum",England,Essex,Chelmsford,"Permanent, full-time",False,True,"Applications,Brand,Communication,Defence,Digital,Diversity,Engine,Financial Crime,Java,Machine,Project Management,Python,Projects,Design,Project,Process,Development,Report,Application,Develop,Industrial/ Manufacturing Engineer"
+42674719,Project Scientist,Petrie Recruitment,Posted 10 May,"£25,000 per annum",Wales,Mid Glamorgan,Bridgend,"Temporary, full-time",False,True,
+42665588,Senior Pricing Analyst,Harnham,Posted 9 May,"£35,000 - £55,000 per annum",England,Avon,Bristol,"Permanent, full-time",False,True,
+42871448,Machine Learning Engineer,Explore Group,Posted 28 May,£390.00 - £425.00 per day,England,South East England,London,"Contract, full-time",False,False,
+42668433,Senior Pharmacovigilance Scientist,Gold Group Ltd,Posted 10 May,Salary negotiable,England,South East England,London,"Contract, full-time",False,True,
+42831227,Senior Scientist - Analytical Sciences,OXGENE,Posted 25 May,Salary negotiable,England,Oxfordshire,Oxford,"Permanent, full-time",False,True,
+42651399,Scientists - COVID Labs,Webrecruit,Posted 7 May,Competitive salary,England,Middlesex,Lampton,"Permanent, full-time",False,False,
+42934938,Actuarial Analyst Remote,Amber Resourcing,Posted 2 days ago,"£50,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42819597,Medical and Clinical Affairs Scientist - Wiltshire,Jonathan Lee Recruitment,Posted 24 May,Competitive salary,England,Wiltshire,Malmesbury,"Permanent, full-time",False,True,
+42566730,Senior Development Analyst,Jackson Hogg,Posted 27 April,Competitive salary,England,South East England,Berkshire,"Permanent, full-time",False,True,"Compliance,HPLC,Pharmaceutical,Analytical Method Validation,Method Development"
+42846423,Research Scientist - Plant Sciences,Stem Graduates,Posted 26 May,Competitive salary,England,Norfolk,Norwich,"Permanent, full-time",False,False,Plant Science Jobs / Plant Physiology Jobs / Plant Pathology Jobs / Plant Biology Jobs / Molecular Biology Jobs / Gene Editing Jobs / Tissue Culture J
+42805253,"Senior Software Engineer Python, Remote",Understanding Recruitment,Posted 23 May,"£80,000 - £120,000 per annum",England,London,Camden,"Permanent, full-time",False,True,
+42722387,Process Development Scientist - Viral Vectors,Next Phase Recruitment,Posted 14 May,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,
+42622300,Data Engineer,Understanding Recruitment,Posted 4 May,"£450.00 - £500.00 per day, negotiable",England,South East England,London,"Contract, full-time",False,False,"Coding,Python,Google Analytics,Data Engineer,Digital Analyst"
+42665752,Data Consultant,Understanding Recruitment,Posted 9 May,"£450.00 - £500.00 per day, negotiable",England,South East England,London,"Contract, full-time",False,False,"Coding,Python,Google Analytics,Data Engineer,Digital Analyst"
+42897389,Data Consultant,Understanding Recruitment,Posted 5 days ago,"£450.00 - £500.00 per day, negotiable",England,South East England,London,"Contract, full-time",False,True,"Coding,Python,Google Analytics,Data Engineer,Digital Analyst"
+42733140,Big Data Engineer - Remote/Outside IR35,SearchDATA,Posted 17 May,£450.00 - £600.00 per day,England,South East England,London,"Contract, full-time",False,False,
+42250522,Senior Biomedical Scientist,Industrious Recruitment,Posted 19 April,£23.50 - £28.50 per hour,England,Buckinghamshire,Walton Hall,"Contract, full-time",False,True,"Biomedical,PCR,RNA,Liquid Handling"
+42770586,Senior Scientist - Process Sciences,Consult,Posted 20 May,Competitive salary,England,Merseyside,Speke,"Permanent, full-time",False,True,
+42817439,Scientist - Epigenetics,Next Phase Recruitment,Posted 24 May,Salary negotiable,England,Oxfordshire,Oxford,"Permanent, full-time",False,True,
+42583570,Metallurgist/Material Scientist,Russell Taylor Associates,Posted 28 April,"£40,000 - £50,000 per annum",England,Merseyside,Wirral,"Permanent, full-time",False,True,
+42580149,Computer Vision Engineer,Harnham,Posted 28 April,"£50,000 - £55,000 per annum",Ireland,,Ireland,"Permanent, full-time",False,True,
+42868122,Data Architect Gloucestershire 12 Month FTC 50k,Langley James Limited,Posted 27 May,"£40,000 - £50,000 per annum",England,Gloucestershire,Cheltenham,"Permanent, full-time",False,True,"Data,SQL,Tableau,T-SQL,Data Analyst,R,D3.js,Data Scientist,Data Architect,Power BI"
+42695810,Senior Insight Analyst,Invitise,Posted 12 May,"£40,000 - £65,000 per annum",England,Surrey,Kingston Upon Thames,"Permanent, full-time",False,False,"Data Analysis,Extraction,Consumer Insight,Data Extraction,Google Analytics"
+42578807,Technical Lead - Toxicology,VRS Recruitment,Posted 28 April,"£50,000 - £64,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,
+42578849,Technical Lead - Toxicology,VRS Recruitment,Posted 2 days ago,"£50,000 - £64,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,True,
+42578833,Technical Lead - Toxicology,VRS Recruitment,Posted 2 days ago,"£50,000 - £64,000 per annum",Scotland,Midlothian,Edinburgh,"Permanent, full-time",False,True,
+42578826,Technical Lead - Toxicology,VRS Recruitment,Posted 2 days ago,"£50,000 - £64,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42578734,Technical Lead - Toxicology,VRS Recruitment,Posted 2 days ago,"AUD$90,000 - AUD$115,000 per annum",Australia,Australia,Brisbane,"Permanent, full-time",False,True,
+42681136,Scientist 1,FPSG Connect,Posted 11 May,Competitive salary,Scotland,Stirlingshire,Stirling,"Permanent, full-time",False,True,
+42577793,Data Engineer,TEC PARTNERS LIMITED,Posted 28 April,"£60,000 - £85,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"Data,SQL,AWS,Start Up,Data engineer,Kafka,data Engineering,Data Engineering Python"
+42389029,Machine Learning Engineer - Trading,Harnham,Posted 11 May,"£65,000 - £75,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42828061,Research Scientist - Metabolism,Agenda Resource Management,Posted 2 days ago,Competitive salary,England,East Midlands,Northamptonshire,"Permanent, full-time",False,True,
+42636933,Fermentation Scientist,Harris Lord Recruitment,Posted 5 May,Competitive salary,Wales,South Glamorgan,Cardiff,"Permanent, full-time",False,True,"Biologics,Biology,Biotechnology,Fermentation,Scale-up"
+42833805,Principal Scientist - New Actives,Hudson Shribman,Posted 25 May,"£102,000 - £128,000 per annum",England,England,South East England,"Permanent, full-time",False,True,"Relaxation,human effects,human research,in-vitro modelling,stimulants"
+42722285,Senior Analytical Chemist,Cranleigh Scientific,Posted 14 May,"£35,000 - £45,000 per annum",England,East Anglia,Suffolk,"Permanent, full-time",False,True,HPLC - LCMS - GC - GMP - Method Development
+42473023,Data Science Consultant,Harnham,Posted 21 May,"£50,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42826279,Data Engineer,iO Associates,Posted 25 May,"£45,000 - £55,000 per annum",England,Avon,Bristol,"Permanent, full-time",False,True,
+42686647,Development Scientist- Permanent job opportunity,REED Scientific,Posted 11 May,"£25,000 - £35,000 per annum, negotiable, inc benefits",England,Cheshire,Warrington,"Permanent, full-time",False,False,
+42912113,Drug Discovery Bioinformatician,Hays Specialist Recruitment Limited,Posted 4 days ago,"£32,000 - £42,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,"PCR,Bayesian,Bash,NGS,science,C,learning,data,python,biology,machine,R,programming,molecular,statistics,AI,scientist,genetics,bioinformatics,drug,statistical,genomics,discovery,biomarker,deep,bioinformatician,sequence"
+42912850,Senior Data Engineer,Hunter Selection Limited,Posted 4 days ago,"£40,000 - £60,000 per annum, negotiable, inc benefits",England,South East England,London,"Permanent, full-time",False,True,
+42697300,Senior CRM Executive - E-commerce,Profiles Creative,Posted 12 May,"£30,000 - £40,000 per annum, negotiable, inc benefits",England,South East England,London,"Permanent, full-time",False,True,"CRM,ecommerce,email marketing,affiliates"
+42657367,Scientist III,Veblen International,Posted 7 May,Salary negotiable,England,Lancashire,Manchester,"Permanent, full-time",False,False,
+42465392,Senior/Principal Scientist - Cell Gene Therapy (PCR) - 75-95k Eur,Bosch Global Associates Ltd,Posted 25 May,"€75,000 - €95,000 per annum, negotiable",Belgium,Belgium,Wavre,"Permanent, full-time",True,True,"Biology,Biopharmaceuticals,Cell Biology,Molecular Biology,PCR"
+42935203,Computer Vision Researcher,Amber Resourcing,Posted 2 days ago,"£70,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42826301,Database Developer - ETL Developer,iO Associates,Posted 25 May,"£45,000 - £55,000 per annum",England,Avon,Bristol,"Permanent, full-time",False,False,
+42730225,Software Engineer Hybrid Remote,Understanding Recruitment,Posted 23 May,"£60,000 - £75,000 per annum",England,London,Camden,"Permanent, full-time",False,True,
+42723251,Analytical Scientist - Cell Biology,Next Phase Recruitment,Posted 14 May,Salary negotiable,England,South East England,London,"Permanent, full-time",False,False,
+42728161,Quantitative Bioassay Scientist,Page Group,Posted 15 May,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42696380,Data Engineering Manager - Python,Walter Everett,Posted 12 May,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,
+42775469,Research Scientist - Applied Behavlour,Adecco,Posted 20 May,£14.50 per hour,England,Leicestershire,Melton Mowbray,"Contract, full-time or part-time",False,True,"Coding,Python,Zoology,Life Science,animal behaviour,Batchelor Degree,Video Mapping"
+42571534,Senior pharmacovigilance Scientist,Randstad Sourceright,Posted 27 April,Competitive salary,England,Berkshire,Maidenhead,"Contract, full-time",False,True,
+42566814,Senior Development Analyst,Jackson Hogg,Posted 27 April,Competitive salary,England,Nottinghamshire,Nottingham,"Permanent, full-time",False,True,"HPLC,Pharmaceutical,Analytical Method Validation,Method Development,Method Transfer"
+42686646,Development Scientist- Permanent job opportunity,REED Scientific,Posted 11 May,"£25,000 - £35,000 per annum, negotiable, inc benefits",England,Cheshire,Warrington,"Permanent, full-time",False,True,
+42892270,"Senior Python Engineer Crypto, Remote",Understanding Recruitment,Posted 6 days ago,"£80,000 - £120,000 per annum",England,London,Camden,"Permanent, full-time",False,True,
+42697772,Data Science Manager,Harnham,Posted 12 May,"£60,000 - £90,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42861367,Head of Data Science & Analytics,Harnham,Posted 27 May,"£110,000 - £120,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42873255,Bioscientist / Diagnostic Scientist Lead - PartTime Night Shift,SRG Lunar,Posted 28 May,£26.42 per hour,England,Warwickshire,Leamington Spa,"Contract, full-time",False,True,
+42924655,Technical Support Scientist - German Speaking Role,NonStop Consulting Ltd,Posted 3 days ago,"£28,000 - £31,000 per annum, negotiable, inc benefits",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,German; NGS; Bioinformatics; Molecular Biology; PCR
+42787687,Front End Developer - React,Explore Group,Posted 21 May,"£50,000 - £60,000 per annum",England,Middlesex,Twickenham,"Permanent, full-time",False,True,
+42730102,Machine Learning Engineer Flexible/Remote,Understanding Recruitment,Posted 17 May,"£50,000 - £60,000 per annum",England,Cheshire,Warrington,"Permanent, full-time",True,False,
+42629942,Field Application Specialist,Langton Howarth Ltd,Posted 5 May,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,
+42847958,Trading Analyst,Multiverse,Posted 26 May,"£18,000 per annum, inc benefits",England,South East England,London,"Permanent, full-time",True,False,"Apprentice,Apprenticeship,Communication Skills,Data Analysis,Future Leaders"
+42737370,Research Scientist Applied Behaviour,Adecco,Posted 17 May,£14.50 - £19.50 per hour,England,East Midlands,Leicestershire,"Contract, full-time",False,True,
+42883874,Data Science Manager - Betting,Harnham,Posted 29 May,"£60,000 - £90,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42832034,BI Consultant,NRG PLC,Posted 25 May,"£45,000 per annum",England,Tyne And Wear,Newcastle Upon Tyne,"Permanent, full-time",False,True,
+42638387,Head of Data Science & Analytics,Harnham,Posted 5 May,"£110,000 - £120,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42499944,Reprogramming Scientist,Kelly Services,Posted 19 April,"£28,000 - £35,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+42660023,Marketing Analyst,Harnham,Posted 7 May,£500.00 - £600.00 per day,England,South East England,London,"Permanent, full-time",False,False,"Analyst,Analytics,Data,Digital,Modelling,Python,Segmentation,Data Science,Google Analytics,Segments,Attribution,SAS,Customer,Agency,R,QL,Data Scientist,Regression,Models,Segment,Lapse,Lapse Model,Behavioural modelling"
+42939864,Data Architect - Cheltenham - 12 month Contract,Lucid Support Services Ltd,Posted 2 days ago,Competitive salary,England,Gloucestershire,Cheltenham,"Contract, full-time",False,True,
+42752798,Lead Analyst - Strategy,PeopleGenius,Posted 19 May,"£55,000 - £70,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,"Analytical Modelling,Collections,Credit Risk,Python,SQL"
+42833377,Senior React Developer -,Explore Group,Posted 25 May,"£50,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42689140,Software Engineer Full Stack C++ Python JavaScript,Client Server Ltd.,Posted 12 May,"£55,000 - £65,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",True,True,"javascript,c++,python,full-stack,software-developer"
+42942554,Antibody Discovery Scientist,Kelly Services,Posted 2 days ago,Salary negotiable,England,Hertfordshire,Stevenage,"Permanent, full-time",False,True,
+42377905,Senior Research Scientist - Metabolism,VRS Recruitment,Posted 11 May,Competitive salary,England,East Midlands,Northamptonshire,"Permanent, full-time",False,False,
+42936381,Data Science Apprentice,Multiverse,Posted 2 days ago,"£18,000 per annum, inc benefits",England,Lancashire,Oldham,"Permanent, full-time",True,True,"Analysis,Analytical,Apprenticeship,Communication Skills,Data"
+42730500,"Lead Software Developer contract - Fully Remote, Outside IR35",SR2,Posted 17 May,£500.00 per day,England,Avon,Bristol,"Contract, full-time",True,True,
+42861364,Laboratory Analyst,Anglian Water,Posted 27 May,"£20,588 per annum",England,Cambridgeshire,Huntingdon,"Permanent, full-time",False,True,"Analyst,Science"
+42693095,Senior Data Science & Analytics,Hays Specialist Recruitment Limited,Posted 12 May,"£40,000 - £50,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42878472,Data Analysis Apprentice,Multiverse,Posted 28 May,"£20,000 per annum, inc benefits",England,South East England,London,"Permanent, full-time",True,False,"Apprenticeship,Communication Skills,Data Analysis,Future Leaders"
+42333431,Team Lead - GxP LC-MS/MS,VRS Recruitment,Posted 4 May,Competitive salary,England,Cheshire,Macclesfield,"Permanent, full-time",False,True,
+41716558,In Vitro Toxicology Lead,VRS Recruitment,Posted 20 May,Competitive salary,England,England,North West England,"Permanent, full-time",False,True,
+42700607,Data Engineer,Aspire,Posted 13 May,"£35,000 - £45,000 per annum, pro-rata, inc benefits",England,South East England,London,"Permanent, full-time",False,False,"analyst,data analysis,pricing analyst,data modelling,pricing manager,campaign analyst,yield analyst,campaign analytics"
+42730842,Senior Scientist - Immunology,Recruitment Genius,Posted 17 May,"£30,000 - £40,000 per annum",Scotland,Midlothian,Edinburgh,"Permanent, full-time",False,True,
+42694423,Validation & Qualification Scientist,Cpl Life Sciences,Posted 12 May,Salary negotiable,England,Berkshire,Reading,"Permanent, full-time",False,True,
+42294425,Data Analyst,Multiverse,Posted 30 April,"£23,500 per annum, inc benefits",England,London,Camden,"Permanent, full-time",False,False,"Analysis,Analytical,Apprenticeship,Communication Skills,Data Analysis"
+42775347,Deep Learning Research Scientist,Colossus Associates,Posted 20 May,"£55,000 - £65,000 per annum, inc benefits",England,Buckinghamshire,Milton Keynes,"Permanent, full-time",False,True,"Java,Machine Learning,Python,C/C++"
+42769400,Diagnostics Development Scientist,AWE PLC,Posted 20 May,Competitive salary,England,South East England,Berkshire,"Permanent, full-time or part-time",False,True,
+42722347,Bioscientist,Rowland Talent Solutions Limited,Posted 14 May,Salary negotiable,England,Nottinghamshire,Nottingham,"Permanent, full-time",False,False,"Cell,biochemistry,pharmacology,Assay,Biochemical"
+42591085,Data Engineer,Oscar Technology,Posted 29 April,"£45,000 - £52,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",True,True,
+42660482,Decision Science Analyst,Harnham,Posted 7 May,"£55,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",True,True,
+42750834,Cryo-EM Scientist (Ref: CE/0321),Astex Pharmaceuticals,Posted 18 May,"£37,000 - £55,000 per annum",England,Cambridgeshire,Cambridge,"Contract, full-time",False,True,
+42741953,Senior Development Scientist,The BBI Group,Posted 18 May,Competitive salary,England,Kent,Sittingbourne,"Permanent, full-time",False,True,
+42749030,"QC Analytical Scientist - HPLC, Pharmaceutical",Russell Taylor Associates,Posted 18 May,"£21,000 - £26,000 per annum",England,Derbyshire,Derby,"Permanent, full-time",False,False,
+42903493,Senior Software Engineer - Healthcare Tech,SR2,Posted 5 days ago,£400.00 - £450.00 per day,England,Avon,Bristol,"Contract, full-time",True,True,
+42841313,Data Analyst: Customer Insight / Digital Analyst: Google Cloud,REED,Posted 26 May,"£30,000 - £45,000 per annum, inc benefits",England,Avon,Bristol,"Permanent, full-time",False,True,
+42916176,Data Fellowship Apprentice - Mercedes-Benz,Multiverse,Posted 4 days ago,"£19,000 per annum, inc benefits",England,Buckinghamshire,Tongwell,"Permanent, full-time",True,True,"Apprenticeship,Communication Skills,Data Analysis,Mercedes"
+42857287,Echocardiologist,R2R People Ltd,Posted 27 May,£23.50 per hour,England,Cheshire,Warrington,"Temporary, full-time",False,True,"Cardiology,Echocardiography"
+42919392,Chemist (Technician),Plastic Energy Limited,Posted 4 days ago,Competitive salary,England,Leicestershire,Loughborough,"Permanent, full-time",False,True,"Chemical Engineering,Chemistry,Laboratory Technicians"
+42618169,Data and Insight Manager - Digital Agency,Savvy Recruitment Ltd,Posted 4 May,"£35,000 per annum",England,London,Camden,"Permanent, full-time",False,True,
+42669722,Data and Insight Manager - Digital Agency,Savvy Recruitment Ltd,Posted 10 May,"£35,000 per annum",England,London,Camden,"Permanent, full-time",False,True,
+42916234,Data Analyst Apprentice,Multiverse,Posted 4 days ago,"£18,000 per annum",England,London,Southwark,"Permanent, full-time",True,True,"Apprenticeships,Data Analysis,Data Privacy,Future Leaders"
+42903055,Scientists - COVID Labs,Webrecruit,Posted 5 days ago,Competitive salary,England,Merseyside,Liverpool,"Contract, full-time",False,True,
+42827243,Senior Data & Analytics Manager,Handle Recruitment,Posted 25 May,"£80,000 - £90,000 per annum",England,South East England,London,"Permanent, full-time",False,False,Senior Data & Analytics Manager
+42933157,Materials Engineer - Polymers,Hudson Shribman,Posted 2 days ago,"£30,000 per annum",England,England,East Midlands,"Permanent, full-time",False,True,"Adhesives,Coatings,Composites,Materials Science,Polymer Chemistry"
+42601863,Part time Scientist,Vantage Recruitment,Posted 30 April,"£25,000 - £30,000 per annum",England,Berkshire,Water Oakley,"Permanent, part-time",False,False,"pcr,lamp,lims covid"
+42621281,Senior Software Engineer / Lead Software Engineer,Cathcart Associates,Posted 4 May,"£50,000 - £60,000 per annum, inc benefits",Scotland,Midlothian,Edinburgh,"Permanent, full-time",True,True,"JavaScript,Machine Learning,ML,Python,React,Ruby on Rails,SaaS,AWS,AI,RoR,Angular"
+42852528,Software Development Engineer,Petroleum Experts Limited (Petex),Posted 26 May,Competitive salary,Scotland,Midlothian,Edinburgh,"Permanent, full-time",False,True,
+42866410,Clinical Trial Manager,Advantage Resourcing,Posted 27 May,£18.93 - £22.87 per hour,England,South East England,London,"Contract, full-time",False,True,"GCP,IMP,clinical trials,clinical trial manager,Investigational Medicinal Products,monitoring data,trial procedures,trial documentation,trial promotion,Cancer/HIV trial,Tuberculosis trials"
+42925829,Senior Automation Scientist,Jefferson Wells,Posted 3 days ago,"£40,000 - £50,000 per annum",England,Lancashire,Manchester,"Contract, full-time",False,True,"Automation,Robotics,Scientific,Liquid handling,TECAN"
+42920324,DSP Principal Scientist,Kelly Services,Posted 4 days ago,"£35,000 per annum",England,Cleveland,Stockton-on-Tees,"Permanent, full-time",False,True,
+42769766,Business Intelligence Analyst,Global Payments,Posted 20 May,Competitive salary,England,Leicestershire,Syston,"Permanent, full-time",False,True,"BI,Financial Services,Tableau"
+42874882,Graduate Chemical/Petrochemcial consultant (Remote),Step,Posted 28 May,"£23,000 - £28,000 per annum",England,Nottinghamshire,Nottingham,"Permanent, full-time",True,False,"Analysis,Chemistry,Consultants,Data,Presentations"
+42646330,Technology Recruitment Consultant,Concept Resourcing,Posted 6 May,"£22,000 - £35,000 per annum",England,West Midlands,Dudley,"Permanent, full-time",True,True,
+42738411,Recruitment Consultant- Technology Contract,Concept Resourcing,Posted 17 May,"£22,000 - £35,000 per annum",England,West Midlands,Dudley,"Permanent, full-time",True,True,
+42585936,Senior Bioinformatician - Cambridge Agritech FTC,Hays Specialist Recruitment Limited,Posted 28 April,"£40,000 - £60,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+42568649,Graduate Scientist / Engineer,Morson Talent,Posted 27 April,Competitive salary,England,Dorset,Winfrith Newburgh,"Permanent, full-time",False,False,
+42782116,Lead Full Stack Developer - build new cloud-based products,Hays Specialist Recruitment Limited,Posted 21 May,"£55,000 - £70,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,
+42828619,Applied Dispersion Modelling Scientist,AWE PLC,Posted 25 May,"£34,000 - £45,000 per annum",England,South East England,Berkshire,"Permanent, full-time",False,True,
+42818889,AI Imaging Senior Scientist,Hays Specialist Recruitment Limited,Posted 24 May,"£45,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42333424,Team Lead - GxP LC-MS/MS,VRS Recruitment,Posted 6 May,Competitive salary,England,Cheshire,Macclesfield,"Permanent, full-time",False,True,
+42940420,Data Engineer - Global Media Company,Reuben Sinclair,Posted 2 days ago,"£45,000 - £55,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42934813,Flow Cytometry Regulated Study Director,VRS Recruitment,Posted 2 days ago,"£31,000 - £46,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+42832693,Performance Marketing Analyst,Quest Search and Selection Ltd,Posted 25 May,"£70,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Analytics,Budgets,Data,Presentations,Strategy,Insights,Performance Marketing"
+42679723,HPC Product Marketer - Home-based,Numerical Algorithms Group Ltd,Posted 11 May,Competitive salary,England,Oxfordshire,Oxford,"Permanent, full-time",False,True,
+42802720,Recruitment Manager,Concept Resourcing,Posted 23 May,"£30,000 - £40,000 per annum",England,West Midlands,Dudley,"Permanent, full-time",False,True,
+42920251,USP Principal Scientist,Kelly Services,Posted 4 days ago,"£35,000 - £45,000 per annum",England,Cleveland,Stockton-on-Tees,"Permanent, full-time",False,True,
+42721306,Laser Image Processing and Control Systems Engineer,MBDA,Posted 14 May,"£38,000 - £50,000 per annum",England,Avon,Bristol,"Permanent, full-time",False,True,
+42763395,Senior Scientist - Process Development,Valneva Scotland Ltd,Posted 19 May,Competitive salary,Scotland,West Lothian,Livingston,"Permanent, full-time",False,True,"Biologics,Chemistry,IMP,Production Process Development,Vaccines"
+42457450,"Associate Director - Gene Therapy - Brussels Area, Belgium - 80-130k Eur",Bosch Global Associates Ltd,Posted 26 May,"€80,000 - €120,000 per annum, negotiable",Belgium,Belgium,Brussels,"Permanent, full-time",False,True,"Biological,Biopharmaceuticals,Cell Biology,Bioanalysis,Pharmaceutical Industry"
+42682582,R&D Project Manager - IVD,Page Group,Posted 11 May,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,
+42673498,Remote Full Stack Developer - SQL and Ruby on Rails,Rebel Recruiters,Posted 12 May,"£30,000 - £40,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,"Data Analysis,JavaScript,Ruby on Rails,SQL,Geospatial Data"
+42754835,Laboratory Manager - Analytical Development,Custom Pharma Services,Posted 19 May,Salary negotiable,England,East Sussex,Brighton,"Permanent, full-time",False,True,
+42686079,Research Associate,Novacyt,Posted 11 May,Competitive salary,England,Hampshire,Chandlers Ford,"Permanent, full-time",False,True,
+42940975,Scientist - Compound Management and Automation,Talentspa,Posted 2 days ago,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42771354,Clinical Research Director,Novacyt,Posted 20 May,Competitive salary,England,Hampshire,Chandlers Ford,"Permanent, full-time",False,True,
+42836082,Senior Software DevOps Engineer - Investment Banking Data Analytics Group,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42337358,Digital Web Analyst,Tandem Talent Ltd,Posted 13 May,"£45,000 per annum",England,Wiltshire,Malmesbury,"Permanent, full-time",False,False,"Adobe,Python,SQL,Google Analytics"
+42842222,"Data Analyst - Digital Health - SQL, Power BI",Michael Page Technology,Posted 26 May,Salary negotiable,England,Cheshire,Warrington,"Permanent, full-time",False,True,"SQL,Google Analytics,Excel,Power BI"
+42345443,Technical Support Scientist - 12 month contract,NonStop Consulting Ltd,Posted 4 May,"£25,000 - £30,000 per annum",England,Cambridgeshire,Cambridge,"Contract, full-time",False,True,"genetics,Next generation sequencing; Technical Support Scientist; biology,bioinformatics; European language skills"
+42636150,Data Engineer,Wilmington Plc,Posted 5 May,"£35,000 - £50,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"Computer Science,Data Science,Data Analyst,Data Engineer,Database Developer"
+42633600,Lab Technician,Recruit Recruit Ltd,Posted 5 May,"£25,000 - £30,000 per annum",England,Berkshire,Slough,"Permanent, full-time",False,False,"LIMS,PCR,RT-PCR,Testing,Biomedical Sciences"
+42646953,Business Analyst,UK Biobank,Posted 6 May,"£46,000 per annum",England,Cheshire,Stockport,"Contract, full-time",False,False,IT
+42651679,Scientists - COVID Labs,Webrecruit,Posted 7 May,Competitive salary,England,Essex,London Stansted Airport,"Permanent, full-time",False,False,
+42887172,Scientists - COVID Labs,Webrecruit,Posted 1 week ago,Competitive salary,England,Cheshire,Warrington,"Permanent, full-time",False,True,
+42887174,Scientists - COVID Labs,Webrecruit,Posted 1 week ago,Competitive salary,England,Lancashire,Manchester,"Permanent, full-time",False,False,
+42651464,Scientists - COVID Labs,Webrecruit,Posted 7 May,Competitive salary,England,West Sussex,London Gatwick Airport,"Permanent, full-time",False,False,
+42912512,Scientists - COVID Labs,Webrecruit,Posted 4 days ago,Competitive salary,England,Derbyshire,Derby,"Contract, full-time",False,True,
+42912060,Pharmaceutical Machine Learning Specialists,Hays Specialist Recruitment Limited,Posted 4 days ago,"£50,000 - £85,000 per annum",England,Berkshire,Maidenhead,"Permanent, full-time",False,True,"Bayesian,Bash,science,C,learning,data,python,programmer,pharmaceutical,development,machine,R,programming,clinical,statistics,scientist,trial,platform,genetics,drug,statistical,discovery,biomarker"
+42940887,Principal Scientist - Physio-Chemical Profiling,Agenda Resource Management,Posted 2 days ago,Competitive salary,England,North West England,Cheshire,"Permanent, full-time",False,True,
+42833518,Fermentation Team Lead,Hyper Recruitment Solutions Ltd,Posted 25 May,Competitive salary,England,South East England,Kent,"Permanent, full-time",False,True,
+42837348,Data Science,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42903118,Lead Developer / React / Front End / Ecommerce - Remote/London,Tria Recruitment,Posted 5 days ago,"£95,000 - £105,000 per annum",England,South East England,London,"Permanent, full-time",False,True,Lead Developer / React / Front End / Ecommerce - Remote/London
+42595713,Data Engineer,Amber Resourcing,Posted 29 April,"£60,000 - £75,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42638333,Data Engineer,Harnham,Posted 5 May,"£65,000 - £75,000 per annum",England,South East England,London,"Permanent, full-time",True,True,
+42685882,Head of Product,Lynx Recruitment Ltd,Posted 11 May,"£100,000 - £150,000 per annum",England,Cheshire,Chester,"Permanent, full-time",True,True,
+42648495,Head of Data Strategy - Client Side,Harnham,Posted 6 May,"£35,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Entertainment,Client Side,Data Strategy"
+42750493,Senior Recruiter,Walters People,Posted 18 May,"£45,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42770223,Data Engineer (BigQuery) - Inside IR35 Contract,Softwire,Posted 20 May,£400.00 - £525.00 per day,England,London,Camden,"Contract, full-time",False,True,
+42686395,C++ Software Engineer,SR2,Posted 11 May,"£40,000 - £53,000 per annum",England,Hampshire,Basingstoke,"Permanent, full-time",False,True,
+42791870,"Senior Full Stack Engineer - Java, Spring Boot, Angular, REST",Michael Page Technology,Posted 2 days ago,"£95,000 - £110,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Angular,REST APIs,Spring Boot,Senior Full Stack Engineer - Java"
+42773613,Data Engineer - Python,SR2,Posted 20 May,"£45,000 - £60,000 per annum",England,Avon,Bristol,"Permanent, full-time",False,True,
+42832095,Senior Data Engineer,Hastings Direct,Posted 25 May,Salary negotiable,England,East Sussex,Bexhill-on-Sea,"Permanent, full-time",False,True,
+42781530,"Data Engineer - £55,000 - Data Consultancy",Jefferson Frank,Posted 21 May,"£55,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Python,Data Engineer,awareness of Data Science and ML"
+42878015,Machine Learning Ops Engineer,Reed Specialist Recruitment,Posted 28 May,Salary not specified,England,London,Holborn,"Permanent, full-time",True,True,
+42853217,Data Science Lead Manager,Harnham,Posted 26 May,"£80,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42880273,Data Architect,X4 Group,Posted 28 May,"£80,000 - £100,000 per annum",England,West Yorkshire,Leeds,"Permanent, full-time",True,True,
+42811664,"Principal Full Stack Engineer - Java, Spring Boot, Angular",Michael Page Technology,Posted 2 days ago,"£110,000 - £135,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"REST,Angular,Spring Boot,Principal Full Stack Engineer - Java"
+42663047,Lead Data Science Consultant,Harnham,Posted 8 May,"£90,000 - £120,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42710322,Senior Data Engineer - Remote,Harnham,Posted 13 May,"£50,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42726733,Senior Data Engineer - Remote,Harnham,Posted 15 May,"£50,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42665590,Senior Data Engineer - Remote,Harnham,Posted 9 May,"£50,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42641513,Senior Data Engineer,Ringstone Recruitment,Posted 6 May,"£80,000 - £105,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Data,Engineering,Software Development,Big Data"
+42836016,Quant Analyst,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42755242,Consultant Healthcare Scientist,NHS National Services Scotland,Posted 19 May,"£72,079 - £77,683 per annum",Scotland,Lanarkshire,Glasgow,"Contract, full-time",False,True,
+42836224,Macro Quant Researcher,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42346261,"Senior Product Manager, Data & Analytics",Goodman Masson,Posted 1 May,Salary negotiable,England,South East England,London,"Permanent, full-time",False,False,
+42744878,Senior Technical Product Manager - Financial Crime FinTech,Rise Technical Recruitment Limited,Posted 18 May,"£80,000 - £120,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"AML,Data,Financial Crime,Fraud,Python,Hadoop,FinTech,Technical Product Manager"
+42944118,Data Engineer,Harnham,Posted Yesterday,"£45,000 - £65,000 per annum",England,Suffolk,Ipswich,"Permanent, full-time",False,True,
+42879407,Head Of Data Science,Shift F5 Limited,Posted 28 May,"£80,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42883936,Data Engineer,Harnham,Posted 29 May,"£45,000 - £65,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,True,
+42804139,Data Engineer,Harnham,Posted 23 May,"£45,000 - £65,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,True,
+42942373,Data Engineer,Harnham,Posted 2 days ago,"£45,000 - £65,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,True,
+42553289,Data Engineer,Harnham,Posted 25 April,"£45,000 - £65,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,True,
+42609001,Data Engineer,Harnham,Posted 1 May,"£45,000 - £65,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,True,
+42907083,Supply Data Analyst,Harnham,Posted 5 days ago,"£35,000 - £40,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42805404,Digital Senior Account Manager,Henry Nicholas Associates,Posted 23 May,"£35,000 - £40,000 per annum",England,West Yorkshire,Leeds,"Permanent, full-time",False,True,
+42687107,"Data Engineer - £60,000 - AWS - London",Jefferson Frank,Posted 11 May,"£50,000 - £60,000 per annum, inc benefits",England,South East England,London,"Permanent, full-time",False,True,Data Engineer - AWS
+42938451,Python Developer - Cambridge IMMEDIATE,Shift F5 Limited,Posted 2 days ago,"£50,000 - £70,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,"Agile,Python,Bash,SaaS,AWS,PowerShell,Lambda,DynamoDB,Elasticsearch,AWS S3,S3,Kubernetes"
+42648501,Lead Data Engineer,Harnham,Posted 6 May,"£80,000 - £90,000 per annum",England,South East England,London,"Permanent, full-time",True,True,
+42805410,Digital Account Director,Henry Nicholas Associates,Posted 23 May,"£40,000 - £52,000 per annum",England,West Yorkshire,Leeds,"Permanent, full-time",False,True,
+42586612,Senior Product Manager,Harnham,Posted 28 April,"£60,000 - £65,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,False,
+42500454,Data Engineer Python - Data Analytics,Jefferson Frank,Posted 19 April,"£50,000 - £55,000 per annum",England,South East England,London,"Permanent, full-time",True,False,"ETL,Machine Learning,MySQL,PostgreSQL,Python,SQL,Data Science,Big Data,API,Data Engineer,AWS,Data Analytics,Redshift,Pandas,NumPy,Tensorflow"
+42632163,Senior CRM Manager,Harnham,Posted 5 May,"£35,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42583315,Research Associate - FinTech,Tribeca Recruitment,Posted 28 April,"£25,000 - £28,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42849131,Data Engineer,Hastings Direct,Posted 26 May,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42686351,DevOps,Harnham,Posted 11 May,£600.00 - £650.00 per day,England,South East England,London,"Permanent, full-time",False,False,
+42879366,Data Engineer,Shift F5 Limited,Posted 28 May,"£60,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42710507,Corporate Development Manager - Fintech,Handle Recruitment,Posted 13 May,"£70,000 - £90,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"MBA,Strategy,Financial Modelling,Project management,Fintech,Corporate Development Manager"
+42747359,Snr Talent Acquisition Partner,Frazer Jones,Posted 18 May,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,
+42592240,Senior CRM Manager,Harnham,Posted 29 April,"£60,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"Communication,KPI,Python,SQL,Senior,manager,marketing,R,communications,crm,segmentation"
+42805406,Paid Search Analyst / Senior Analyst,Henry Nicholas Associates,Posted 23 May,"£25,000 - £35,000 per annum",England,West Yorkshire,Leeds,"Permanent, full-time",False,True,
+42879175,Software Engineer  Remote,OxSource Ltd,Posted 28 May,"£45,000 - £55,000 per annum",England,Oxfordshire,Oxford,"Permanent, full-time",True,True,"Java,Machine Learning,Software,Software Engineers"
+42750025,Azure DevOps Data Engineer,Harnham,Posted 18 May,€70.00 - €80.00 per hour,Netherlands,,Netherlands,"Permanent, full-time",False,True,
+42761206,DevOps Data Engineer,JTH Recruitment Ltd,Posted 19 May,Salary negotiable,England,Cambridgeshire,Peterborough,"Permanent, full-time",True,True,"IT Development,Linux,Software,SQL"
+42800007,GCP Cloud Data Engineer,Harnham,Posted 22 May,"£50,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",True,True,
+42685955,Head of Product,Lynx Recruitment Ltd,Posted 11 May,"£100,000 - £150,000 per annum",England,Worcestershire,Worcester,"Permanent, full-time",True,True,
+42685777,Head of Product,Lynx Recruitment Ltd,Posted 11 May,"£100,000 - £150,000 per annum",England,South East England,London,"Permanent, full-time",True,False,
+42755946,Contract Data Engineer,Forward Role,Posted 19 May,£400.00 - £500.00 per day,England,Lancashire,Manchester,"Contract, full-time",False,False,
+42608437,Cloud Data Engineer,Harnham,Posted 1 May,"£40,000 - £70,000 per annum",England,South East England,London,"Permanent, full-time",True,True,
+42686823,Data Engineer,X4 Group,Posted 11 May,"£50,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42592362,Data Engineer,Hays Specialist Recruitment Limited,Posted 29 April,"£50,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42645385,Python Data Engineer,James Chase,Posted 6 May,"£30,000 - £35,000 per annum",England,South East England,West Sussex,"Permanent, full-time",True,True,"CRM,Data,ETL,Pipelines,Python"
+42670368,Pricing Manager,MERJE Ltd,Posted 10 May,"£45,000 - £50,000 per annum",England,England,East Midlands,"Permanent, full-time",False,True,
+42670376,Pricing Manager,MERJE Ltd,Posted 10 May,"£45,000 - £50,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42815918,Python Developer,Explore Group,Posted 24 May,£500.00 - £600.00 per day,England,South East England,London,"Contract, full-time",True,False,python; GCP; numpy; pandas; flask; django
+42715976,Senior Data Engineer,Data Idols,Posted 14 May,"£50,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42140808,Senior Data Science Consultant,Harnham,Posted 22 May,"£60,000 - £90,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42936387,Data Engineer,Harnham,Posted 2 days ago,"£50,000 - £55,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42938566,Head Of Data Science,Shift F5 Limited,Posted 2 days ago,"£65,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42938592,Data Engineer,Shift F5 Limited,Posted 2 days ago,"£50,000 - £75,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42606411,DevOps Engineer,Plexus,Posted 30 April,£500.00 - £675.00 per day,England,South East England,London,"Contract, full-time",False,False,
+42693247,Senior Pricing Analyst / Pricing Actuary,QBE Insurance - European Operations,Posted 12 May,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,"Commercial Insurance,Pricing Analysis,SQL,Actuarial Science,Excel"
+42621478,Lead Data Engineer,Harnham,Posted 4 May,"£75,000 - £90,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42621758,Senior Data Engineer,Harnham,Posted 4 May,"£50,000 - £75,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42731324,Biomedical Data Curator,Next Phase Recruitment,Posted 17 May,"£40,000 - £100,000 per annum",England,Kent,Sandwich,"Permanent, full-time",False,True,
+42779498,Senior Data Engineer PySpark,Data Idols,Posted 20 May,"£50,000 - £80,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42922216,Mechanical Engineer,Amazing Prospects Ltd,Posted 3 days ago,"£40,000 - £50,000 per annum, inc benefits",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+42782871,Lead Engineer,Oho Group Ltd,Posted 3 days ago,"£70,000 - £90,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42826227,Python Engineer,Absolute IT Recruitment,Posted 25 May,"£70,000 - £90,000 per annum",England,London,Covent Garden,"Permanent, full-time",True,True,"Flask,Python,REST,Django,AWS"
+42867745,Machine Learning Data Engineer,Harnham,Posted 27 May,"£60,000 - £68,000 per annum",England,West Midlands,Birmingham,"Permanent, full-time",False,True,
+42804138,Senior Data Engineer,Harnham,Posted 23 May,"£45,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42811950,Senior Frontend Engineer - Angular m / f / d,Rise Technical Recruitment Limited,Posted 24 May,"€50,000 - €80,000 per annum",Germany,,Germany,"Permanent, full-time",False,True,"* Experienced writing code on the frontend using TypeScript / Angular v2+. * Deep understanding of JavaScript,HTML and CSS. * Experience with Responsive and Mobile Design. * Good sense of user experience and workflows."
+42812194,Senior Backend Engineer - Node.js m / f / d,Rise Technical Recruitment Limited,Posted 24 May,"€50,000 - €80,000 per annum",Germany,,Germany,"Permanent, full-time",False,True,"Automation,Robustness,* Experienced writing code on the backend using JavaScript / Node.js. * Good knowledge of Linux and Docker. * Strong focus on Code Quality,Testing and Monitoring. * Experience using Amazon Web Service (AWS)"
+42611932,Managing Principal - Semantics & Graph Engineering,Harnham,Posted 2 May,"£90,000 - £180,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42809664,Mid Level Private Markets Full Stack Developer,Understanding Recruitment,Posted 24 May,"£40,000 - £55,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,
+42907437,Data Engineer,Evermore Global,Posted 5 days ago,"£725.00 - £750.00 per day, negotiable",England,South East England,London,"Contract, full-time",False,True,"Data,GCP,Spark,Scala,Big Data"
+42749639,Software Developer Python Backend,The Flowminder Foundation,Posted 18 May,"£60,000 per annum",England,Hampshire,Southampton,"Permanent, full-time",False,True,
+42922777,Senior Software Developer Python - Start-up,Client Server Ltd.,Posted 3 days ago,"£85,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"python,developer,aws,api"
+42843300,Web Analyst,Harnham,Posted 26 May,"€40,000 - €50,000 per annum",Netherlands,,Netherlands,"Permanent, full-time",False,True,
+42923942,Senior Data Engineer - Python,Harnham,Posted 3 days ago,"£85,000 - £90,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42694533,C++ Software Engineer,Premier IT,Posted 3 days ago,"£45,000 - £55,000 per annum",England,Hampshire,Basingstoke,"Permanent, full-time",False,True,
+42805402,Paid Search Manager,Henry Nicholas Associates,Posted 23 May,"£35,000 - £42,000 per annum",England,West Yorkshire,Leeds,"Permanent, full-time",False,True,
+42879237,Data Engineer,X4 Group,Posted 28 May,"£40,000 - £60,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,
+42611458,Machine Learning Engineer,Harnham,Posted 2 May,"£50,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42669412,Senior Data Engineer,ADLIB,Posted 10 May,"£70,000 - £85,000 per annum",England,Surrey,Guildford,"Permanent, full-time",False,True,
+42637441,Head of Data Science & Analytics,Harnham,Posted 5 May,"£100,000 - £120,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42782062,Data Analyst,Lynchpin Analytics,Posted 21 May,"£30,000 - £35,000 per annum, negotiable",England,South East England,London,"Permanent, full-time",False,False,"Analyst,BI,Google,Python,Tableau"
+42581421,GCP Data Engineer,Evermore Global,Posted 28 April,"£660.00 - £675.00 per day, negotiable",England,South East England,London,"Contract, full-time",False,True,"Data,GCP,Spark,Scala,Big Data"
+42721641,"Full-Stack Engineer: Richmond, London £50k-£70k",Ascent Sourcing Ltd,Posted 14 May,"£50,000 - £70,000 per annum",England,Surrey,Richmond,"Permanent, full-time",False,True,"CSS,HTML,JavaScript,React,Angular"
+42935267,Head of Data Science,Hays Specialist Recruitment Limited,Posted 2 days ago,"£70,000 - £120,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42814390,Contract - Programmatic Trader - Tech - Outside of IR35,Sphere Digital Recruitment,Posted 24 May,£250.00 - £300.00 per day,England,South East England,London,"Contract, full-time",False,True,"TTD,Programmatic,digital,technical,DSP,DBM,trafficking,appnexus,ad server,DV360,tradedesk,""programmatic trading"""
+42686756,Cloud Architect INSIDE IR35,Sanderson,Posted 11 May,£550.00 - £650.00 per day,England,South East England,London,"Contract, full-time",False,True,
+42648456,AWS Data Engineer,Harnham,Posted 6 May,€80.00 - €90.00 per hour,Netherlands,,Netherlands,"Contract, full-time",False,True,
+42719402,Senior Data Strategist,Harnham,Posted 14 May,£375.00 - £425.00 per day,England,South East England,London,"Contract, full-time",False,True,Data Planning / Data Planner / Senior Data Planner / Data Strategist / Senior Account Manager / Campaigns / Agency
+42941574,NLP Engineer,Harnham,Posted 2 days ago,"£60,000 - £61,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42606877,Contract Recruiter,Faith Recruitment,Posted 30 April,Salary negotiable,England,Surrey,Woking,"Permanent, full-time",False,True,
+42912392,Senior Computational Biologist,SRGEurope,Posted 4 days ago,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,Biomedical | Biology | NLP | Python | AI | Data Science
+42598127,Pricing Manager,Harnham,Posted 30 April,"£50,000 - £65,000 per annum",England,England,South West England,"Permanent, full-time",False,True,
+42871698,Data Engineer,X4 Group,Posted 28 May,"£60,000 - £90,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42563289,Azure Specialist Data Engineer,Harnham,Posted 26 April,€80.00 - €90.00 per hour,Netherlands,,Netherlands,"Contract, full-time",False,True,
+42875491,Data Governance Consultant,Harnham,Posted 28 May,€80.00 - €90.00 per hour,Netherlands,,Netherlands,"Contract, full-time",False,True,
+42884739,Data Engineer,SR2,Posted 29 May,£500.00 - £600.00 per day,England,South East England,London,"Contract, full-time",False,False,
+42890833,Senior Insight Analyst,Harnham,Posted 6 days ago,"£35,000 - £45,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,
+42668406,Linux DevOps Engineer Kubernetes,Client Server Ltd.,Posted 10 May,"£60,000 - £75,000 per annum",England,London,Camden,"Permanent, full-time",True,False,"linux,python,ruby,scripting,devops,docker,kubernetes"
+42812081,Senior Full Stack Engineer m / f / d,Rise Technical Recruitment Limited,Posted 24 May,"€50,000 - €80,000 per annum",Germany,,Germany,"Permanent, full-time",False,True,"automation,robustness,* Experienced writing of code in the frontend with TypeScript / Angular 2+ * Experience in creating backend applications with JavaScript / Node.js. *,HTML Linux and Docker * Strong focus on code quality"
+42577385,Service Designer,Capita,Posted 28 April,£400.00 - £450.00 per day,England,Hampshire,Portsmouth,"Contract, full-time",False,True,
+42871136,Data Engineer,Thames Water,Posted 28 May,Competitive salary,England,Berkshire,Reading,"Permanent, full-time",False,True,
+42877460,Recruitment Consultant - Data Technology,Barclay Meade,Posted 28 May,"£20,000 - £35,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"sales,recruitment,recruitment consultant,business development,recruiter"
+42561290,Python Engineer,Recruitment Gamechangers Ltd,Posted 26 April,"£80,000 - £90,000 per annum",England,South East England,London,"Permanent, full-time",True,True,
+42881314,"Data Engineer, Python, AWS, Remote",Corriculo Ltd,Posted 28 May,"£55,000 - £75,000 per annum",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+42641516,Senior Computational Biologist - FULLY REMOTE,Ringstone Recruitment,Posted 6 May,"£55,000 - £80,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",True,True,"Bioinformatics,Biology,Computational Biology,Python,Software Development"
+42922727,IT Apprenticeship - fully paid,Recruitment Solutions (Folkestone) Limited,Posted 3 days ago,Competitive salary,England,Kent,Folkestone,"Permanent, full-time",True,True,"Apprenticeship,Business Intelligence,IT,Data Analyst"
+42785727,Data Engineer,Oscar Technology,Posted 21 May,"£30,000 - £44,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,False,Python
+42637876,Health Economist,Oval Recruit,Posted 5 May,Salary negotiable,England,South East England,London,"Permanent, full-time",False,True,"Analytics,Cost Models,Epidemiology,Health,Health Economics"
+42824033,Python Developer Data Machine Learning,Client Server Ltd.,Posted 25 May,"£55,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",True,True,"sql,learning,data,python,machine"
+42883800,Business Analyst,Quest Search and Selection Ltd,Posted 29 May,"£30,000 - £40,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"analyst,data,business,insights"
+42688367,Product Manager Loan Processing,Oscar Technology,Posted 12 May,"£40,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",True,True,
+42749859,Market Analyst,Oscar Technology,Posted 18 May,"£20,000 - £33,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,
+42830725,Data Engineer,CPS Group,Posted 25 May,"£45,000 - £55,000 per annum, negotiable, inc benefits",Wales,South Glamorgan,Cardiff,"Permanent, full-time",False,True,"Python,SQL,AWS,Data Engineering,Data Pipelines"
+42886973,Senior DevOps Engineer - Up to 100K  Bonus  Benefits!!!,Jefferson Frank,Posted 1 week ago,"£90,000 - £105,000 per annum",England,London,Lambeth,"Permanent, full-time",False,True,"Data,AWS,DevOps"
+42856842,"Lead DevOps Engineer - Remote/ London - £100,000  Bonus",Jefferson Frank,Posted 27 May,"£90,000 - £100,000 per annum",England,London,Canary Wharf,"Permanent, full-time",False,True,"Data,London,AWS,DevOps,Remote"
+42901792,Solutions Architect,Michael Page Technology,Posted 5 days ago,"£40,000 - £50,000 per annum",England,Avon,Bristol,"Permanent, full-time",True,True,"TOGAF,data,technology,architecture,stakeholders,solutions architect"
+42696647,Quant Trader,N P Associates,Posted 12 May,"£80,000 - £200,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"Business Intelligence,Machine Learning,Python,Quantitative Finance"
+42772772,Senior Python Developer API AWS - Start-up,Client Server Ltd.,Posted 20 May,"£85,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"senior,python,developer,aws,api"
+42833512,Data Engineer - London (Remote),SDL Solutions Limited,Posted 25 May,"£50,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Sql Server,SSIS,Visual Studio,Windows Azure,Tableau"
+42809670,Senior Full Stack Developer,Understanding Recruitment,Posted 24 May,"£60,000 - £80,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,"C#,AWS,Docker,Microsoft stack,Gitlab,Kubernetes,.NET and .NET Core,JavaScript/TypeScript frameworks,ideally React or Angular"
+42110848,Data Engineer,Gazprom Marketing & Trading,Posted 5 days ago,Competitive salary,England,Lancashire,Manchester,"Permanent, full-time",False,False,"Analytical Skills,SQL,Version Control,Data Manipulation,Panda"
+42632074,Recruitment Consultant,Rule Recruitment Ltd,Posted 7 May,"£23,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Benefits,Recruitment,Technology Recruitment,Training"
+42710265,Data Migration Specialist,Harnham,Posted 13 May,€80.00 - €90.00 per hour,Sweden,,Sweden,"Contract, full-time",True,True,
+42730525,C C++ Software Engineer,Amazing Prospects Ltd,Posted 17 May,"£40,000 - £60,000 per annum, inc benefits",England,Cambridgeshire,Cambridge,"Permanent, full-time",False,True,
+42856588,Python Developer GCP AWS,Client Server Ltd.,Posted 27 May,"£85,000 - £100,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"python,developer,aws,gcp"
+42866671,Machine Learning Engineer,Harnham,Posted 27 May,"£50,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42781767,Infrastructure Engineer DevOps Linux AWS,Client Server Ltd.,Posted 21 May,"£70,000 - £85,000 per annum",England,South East England,London,"Permanent, full-time",True,True,"linux,python,cloud,devops,aws,kubernetes,ci/cd"
+42923747,Solutions Architect Data,Harnham,Posted 3 days ago,"£80,000 - £95,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42927187,Cloud Architect,Goodman Masson,Posted 3 days ago,"£50,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"GCP,Cloud,AWS,DevOps,Cloud Engineer"
+42753419,Data Engineer SQL / Python,Michael Page Technology,Posted 5 days ago,"£35,000 - £45,000 per annum, inc benefits",England,Warwickshire,Stratford-upon-Avon,"Permanent, full-time",False,True,"GCP,Python,Spark,SQL,Athena,Presto,AWS,BigQuery,Dask"
+42580502,Senior Software Developer,Additional Resources Ltd,Posted 28 April,"£60,000 per annum",Scotland,Aberdeenshire,Aberdeen,"Contract, full-time",False,True,"Front End,Software Developer,Net,ASP Net Zero"
+42706489,Data Engineer / ETL Developer - 70k - 75k,Comtecs Ltd,Posted 13 May,"£70,000 - £75,000 per annum",England,South East England,London,"Permanent, full-time",True,False,"Data Streaming,ETL,SQL,Apache Spark,AWS Glue"
+42726402,Insight Analyst,Harnham,Posted 15 May,"£30,000 - £40,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"Analyst,CRM,Insight,Marketing,Retail,SQL,SAS,Customer,Excel,Online Marketing,Customer Journey,Campaign Management,eCommerce,Online Payments,Revenue Optimisation,Recommendations,Commercial Analytics,Senior Analyst,Campaign Analytics"
+42733419,Product Owner,ONYX InSight,Posted 17 May,Salary negotiable,England,Nottinghamshire,Nottingham,"Permanent, full-time",False,True,Product Owner | SaaS | Product Development | Scrum | Leadership | Project Management | Design | User Flow | Product Manager | Agile | Document Control
+42568318,Senior Data Engineer,Gold Group Ltd,Posted 27 April,"£70,000 - £1,000,000 per annum",England,South East England,London,"Permanent, full-time",False,False,Senior Data Engineer / Scala / Java / SQL / Python / GCP / AWS
+42497221,Natural Language Processing (NLP) Expert - Remote,Profile 29,Posted 19 April,"£60,000 - £70,000 per annum, negotiable",Scotland,Lanarkshire,Glasgow,"Permanent, full-time",False,True,
+42497227,Natural Language Processing (NLP) Expert - Remote,Profile 29,Posted 19 April,"£60,000 - £70,000 per annum, negotiable",England,South East England,London,"Permanent, full-time",True,False,
+42607292,Computer Vision Engineer,Harnham,Posted 30 April,"£51,000 - £65,000 per annum",Ireland,,Ireland,"Permanent, full-time",False,True,
+42883239,Junior / Graduate Data Engineer,Sparta Global,Posted Yesterday,"£25,000 - £28,000 per annum, inc benefits",England,West Midlands,Birmingham,"Contract, full-time",False,False,"Analytics,Cloud Computing,Machine Learning,Python,Spark,Statistics,Hadoop,Big Data,modelling,SQL/NoSQL,Data Lakes"
+42578667,Data Engineering Lead - Manchester,Adria Solutions Ltd,Posted 28 April,"£60,000 - £80,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",False,True,
+42681167,DevOps Engineer AWS KS8 Terraform,Client Server Ltd.,Posted 11 May,"£80,000 - £90,000 per annum",England,South East England,London,"Permanent, full-time",True,True,"saas,cloud,devops,aws,kubernetes,terraform,ks8"
+42688602,Front End Developer JavaScript Electron React,Client Server Ltd.,Posted 12 May,"£75,000 - £85,000 per annum",England,South East England,London,"Permanent, full-time",True,True,"javascript,tdd,web,mobile,desktop,react,electron"
+42706406,Machine Learning Lead,Oscar Technology,Posted 13 May,"£85,000 - £120,000 per annum",England,South East England,Bedfordshire,"Permanent, full-time",True,True,"Machine Learning,Python,Ruby,Bash,Deep Learning"
+42827738,Web Developer JavaScript React - Remote Working,Client Server Ltd.,Posted 25 May,"£75,000 - £85,000 per annum",England,South East England,London,"Permanent, full-time",True,True,"javascript,web,mobile,desktop,react,electron"
+42812323,Software Engineering Manager - JavaScript m / f / d,Rise Technical Recruitment Limited,Posted 24 May,"€80,000 - €110,000 per annum",Germany,,Germany,"Permanent, full-time",False,True,"* Experience leading a cross-functional team. * Experienced writing of code in the frontend with TypeScript / Angular 2+ * Experience in creating back,HTML Linux and Docker."
+42833926,Product Insights Lead - Personalisation,Harnham,Posted 25 May,"£175,000 - £200,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42224224,AI FOOTY FANATIC & RESEARCHER,GradBay,Posted 22 April,£10.00 per hour,England,South East England,London,"Permanent, full-time",False,False,"Algorithms,Artificial Intelligence,Sports,Technology Start-up,Researchers"
+42644224,Data Engineer / ETL Developer - 70k - 75k,Comtecs Ltd,Posted 6 May,"£70,000 - £75,000 per annum",England,South East England,London,"Permanent, full-time",True,False,"SQL,Hadoop,AWS,ETL (Talend)"
+42679808,Mid/ Senior Java Software Engineer,createselect,Posted 11 May,"£65,000 - £75,000 per annum",Scotland,Midlothian,Edinburgh,"Permanent, full-time",True,True,"Frameworks,Java,REST,Jenkins,Scala"
+42750727,Head of Data Science & Analytics,PerfectHome,Posted 18 May,Competitive salary,England,West Yorkshire,Leeds,"Permanent, full-time",False,True,"Analyst,Credit Risk,Data Science"
+42664636,Senior UI Designer - Fully Remote,Carrington Recruitment Solutions Ltd,Posted 8 May,"£60,000 - £65,000 per annum, negotiable",England,South East England,London,"Permanent, full-time",False,False,
+42637663,Head of Data Science,Harnham,Posted 5 May,"£110,000 - £120,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42826342,React Native Developer - Remote UK,Client Server Ltd.,Posted 25 May,"£75,000 - £85,000 per annum",England,South East England,London,"Permanent, full-time",True,True,"tdd,mobile,api,native,react"
+42912104,Junior Dev/Ops Engineer (Home Based),JTH Recruitment Ltd,Posted 4 days ago,Salary negotiable,England,Cambridgeshire,Peterborough,"Permanent, full-time",True,True,"Linux,SQL,data engineer"
+42581881,Senior Scientist,Hays Specialist Recruitment Limited,Posted 28 April,"£35,000 - £45,000 per annum",England,South East England,London,"Permanent, full-time",False,False,
+42771172,NGS Scientist,ADLIB,Posted 20 May,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42776544,Molecular Scientist,Page Group,Posted 20 May,Salary negotiable,Scotland,Stirlingshire,Stirling,"Permanent, full-time",False,True,Molecular
+42819272,Clinical Trial Leader,CK GROUP,Posted 24 May,Salary negotiable,Switzerland,Switzerland,Basel,"Contract, full-time",False,True,
+42929395,Validation Scientist,Fortem People,Posted 3 days ago,"£35,000 - £37,000 per annum",England,North Yorkshire,Skipton,"Contract, full-time",False,True,
+42567928,Analytical Scientist Proteins,VRS Recruitment,Posted 27 April,"£25,000 - £31,000 per annum",England,England,South East England,"Permanent, full-time",False,False,
+42319827,Senior Scientist / GLP Study Director,VRS Recruitment,Posted 4 May,Competitive salary,England,Berkshire,Reading,"Permanent, full-time",False,True,
+42826943,Research Scientist (Pharmacology),VRS Recruitment,Posted 25 May,"£35,000 - £42,000 per annum",England,South East England,Berkshire,"Contract, full-time",False,True,
+42427881,Data Engineer - Commercial Domain,TUI,Posted 24 May,Competitive salary,England,Bedfordshire,Luton,"Permanent, full-time",False,True,
+42700126,Head of Airline Data Science,TUI,Posted 4 days ago,Competitive salary,England,Bedfordshire,Luton,"Permanent, full-time",False,True,
+42695127,PHP Developer,Street Group,Posted 12 May,"£35,000 - £45,000 per annum",England,Lancashire,Manchester,"Permanent, full-time",True,False,PHP
+42789378,Senior Full Stack Developer,INSIGNIA RECRUIT,Posted 21 May,Salary negotiable,England,South East England,London,"Contract, full-time",False,False,
+42939581,Data Architect,Digital Waffle,Posted 2 days ago,"£70,000 - £75,000 per annum",England,Nottinghamshire,Mansfield,"Permanent, full-time",False,True,Data Architect / Cloud / Azure / Agile / DevOps / Data Stores / Data Lakes / Data Warehouses / ETL / Data Engineers / RDBMS / NoSQL / SSIS / Linux / U
+42049706,Senior Product Owner - Analytics,TUI,Posted 24 May,Competitive salary,England,Bedfordshire,Luton,"Permanent, full-time",False,True,
+42674468,Full-Stack Developer (MERN),Illuminet Solutions,Posted 10 May,"£55,000 - £65,000 per annum",England,Dorset,Bournemouth,"Permanent, full-time",True,True,"JavaScript,Node,React,MongoDB"
+42815571,Senior Analyst - Strategy & Analytics,Goodman Masson,Posted 24 May,"£40,000 - £55,000 per annum",England,London,Camden,"Permanent, full-time",False,False,"Analyst,Business Analyst,Data Analysis,Data Analyst,Strategy Consulting,Senior Analyst,Strategy Analyst"
+42621062,Data Engineer,Steria Recruitment,Posted 4 May,Salary negotiable,Scotland,Midlothian,Edinburgh,"Contract, full-time",False,True,
+42693724,Senior Python Developer,Hays Specialist Recruitment Limited,Posted 12 May,"£40,000 - £50,000 per annum",England,South East England,London,"Permanent, full-time",False,True,"Software Engineer,Python Developer,Python Engineer"
+42758105,Software Developer Senior,Additional Resources Ltd,Posted 19 May,"£75,000 per annum",England,South East England,London,"Permanent, full-time",True,True,"Front End,Software Developer,Net,ASP Net Zero"
+42848306,Front-end React developer,FRG Technology Consulting,Posted 26 May,"£50,000 - £60,000 per annum",England,South East England,London,"Permanent, full-time",True,True,
+42859433,Senior Data & Insight Strategist - Digital Agency,Blue Pelican,Posted 27 May,"£55,000 - £65,000 per annum",England,South East England,London,"Permanent, full-time",False,True,
+42775863,Data Engineer / ETL Developer - 70k - 75k,Comtecs Ltd,Posted 20 May,"£70,000 - £75,000 per annum",England,South East England,London,"Permanent, full-time",True,False,"Glue,SQL,Hadoop,AWS,ETL (Talend)"
+42789494,Principal Full Stack Developer,INSIGNIA RECRUIT,Posted 21 May,Salary negotiable,England,South East England,London,"Contract, full-time",False,True,
+41495600,Strategic Insights Consultancy Director / Applied Sciences Director,Blue Pelican,Posted 26 April,"£80,000 - £95,000 per annum",England,South East England,London,"Permanent, full-time",False,False,"Consultants,CRM,Insight,SQL,Data Science"
+42944594,Machine Learning Researcher / Quantitative Research Scientist,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42835799,Quantitative Research Scientist,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42834885,Power Consultant,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42944849,Software Engineer - Private Markets,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42945108,"Software Engineer, C# Developer - Private Markets",eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42881106,Talent and Engagement Manager,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42834692,Data Ops Engineer,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42944615,"Senior Associate, C# Developer - Private Markets",eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42945541,"Senior Associate, Software Developer - Private Markets",eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42836013,Quality Assurance Lead- Sports Betting Fintech,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42836845,Product Manager - Alternative Data,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42836006,Buy-side KDB developer,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42834098,Quant KDB developer,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42837751,Asset Management Research Technology - Data Science Analytics Team Lead - Executive Director,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,
+42647698,Applications Scientist - Antibodies,Bio-Rad AbD Serotec Ltd,Posted 6 May,Competitive salary,England,Oxfordshire,Kidlington,"Permanent, full-time",False,True,"ELISA,Immunohistochemistry,Immunology,Flow Cytometry,Western Blotting"
+42601194,Scientist,Recruitment Genius,Posted 30 April,"£25,000 - £35,000 per annum",Scotland,Lanarkshire,Glasgow,"Permanent, full-time",False,False,
+42838340,Senior Product Manager - Enterprise Quant Platform,eFinancial Careers,Posted Yesterday,Competitive salary,England,South East England,London,"Permanent, full-time",False,True,

@@ -30,6 +30,7 @@ BE_IN_FIRST_TEN_XPATH   = '//i[contains(@class,"applicants")]'
 
 # * 1 Job abraction gets defined
 class Job(Item):
+    """Class that models the job posting items extracted from the webpage reed.co.uk"""
     id = Field(
         input_processor=MapCompose(cleanText, clean_id),
         output_processor=TakeFirst()
@@ -80,6 +81,11 @@ class Job(Item):
 # * 2 Define the CrawlSpider
 
 class ReedUKCrawlSpider(CrawlSpider):
+    """
+    Class that inherits from CrawlerSpider, which contains all the functionality
+    of the Crawler to extract the data
+    """
+
 
     #  * 3 Configuration (headers, files, limitations, etc)
     name = "reed_uk"
@@ -91,18 +97,18 @@ class ReedUKCrawlSpider(CrawlSpider):
                 'format': 'csv',
                 'encoding': 'utf8',
                 'overwrite': True,
-                'fields': ['id', 'title', 'employer', 'posting_date', 
-                    'salary','country','region', 'locality', 
-                    'employment_type', 'is_remote', 'be_in_first_ten', 
-                    'required_skills']
+                'fields': ['id', 'title', 'employer', 'posting_date',
+                           'salary', 'country', 'region', 'locality',
+                           'employment_type', 'is_remote', 'be_in_first_ten',
+                           'required_skills']
             }
         },
         'CONCURRENT_REQUESTS': 32,
         'ROBOTSTXT_OBEY': True,
         # ! To handle time between requirements
         'DOWNLOAD_DELAY': 1,
-        # ! To handle connection errors 
-        'DOWNLOADER_MIDDLEWARES':{
+        # ! To handle connection errors
+        'DOWNLOADER_MIDDLEWARES': {
             "scrapy.downloadermiddlewares.retry.RetryMiddleware": 500
         },
         'RETRY_HTTP_CODES': [
@@ -110,8 +116,6 @@ class ReedUKCrawlSpider(CrawlSpider):
         'RETRY_ENABLED': True,
         'RETRY_TIMES': 10,
     }
-
-    
 
     allowed_domains = ['www.reed.co.uk']
 
@@ -136,6 +140,12 @@ class ReedUKCrawlSpider(CrawlSpider):
     )
 
     def parse_job(self, response):
+        """
+        Function that obtain all the data once the crawler reched the desired url
+        given by the rules of the SpiderCrawler
+        """
+
+
         sel = Selector(response)
         item = ItemLoader(Job(), sel)
         item.add_xpath('id', ID_XPATH)
@@ -164,5 +174,5 @@ class ReedUKCrawlSpider(CrawlSpider):
             item.add_value('be_in_first_ten', True)
         else:
             item.add_value('be_in_first_ten', False)
-        
+
         yield item.load_item()
